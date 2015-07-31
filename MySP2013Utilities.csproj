@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F9C1FA46-BF0E-4C47-919A-01C3656C979E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MySP2013Utilities</RootNamespace>
+    <AssemblyName>MySP2013Utilities</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>Svn</SccProjectName>
+    <SccLocalPath>Svn</SccLocalPath>
+    <SccAuxPath>Svn</SccAuxPath>
+    <SccProvider>SubversionScc</SccProvider>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>true</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>Utilities1.pfx</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.IdentityModel, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Office.Policy, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\Common Files\Microsoft Shared\Web Server Extensions\15\ISAPI\Microsoft.Office.Policy.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Server, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\Common Files\Microsoft Shared\Web Server Extensions\15\ISAPI\Microsoft.Office.Server.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Server.Search, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\Common Files\Microsoft Shared\Web Server Extensions\15\ISAPI\Microsoft.Office.Server.Search.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Server.UserProfiles, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\Common Files\Microsoft Shared\Web Server Extensions\15\ISAPI\Microsoft.Office.Server.UserProfiles.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.ServiceLocation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\CommonServiceLocator.1.0\lib\NET35\Microsoft.Practices.ServiceLocation.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.SharePoint.Common, Version=2.0.0.0, Culture=neutral, PublicKeyToken=ef4330804b3c4129, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\SPG2010.2.0.0\lib\net35\Microsoft.Practices.SharePoint.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.SharePoint.Common.Configuration.ConfigurationProxy, Version=1.0.0.0, Culture=neutral, PublicKeyToken=ef4330804b3c4129, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\SPG2010.2.0.0\lib\net35\Microsoft.Practices.SharePoint.Common.Configuration.ConfigurationProxy.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.SharePoint.Common.LoggerProxy, Version=1.0.0.0, Culture=neutral, PublicKeyToken=ef4330804b3c4129, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\SPG2010.2.0.0\lib\net35\Microsoft.Practices.SharePoint.Common.LoggerProxy.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SharePoint, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\Common Files\Microsoft Shared\Web Server Extensions\15\ISAPI\Microsoft.SharePoint.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SharePoint.Search, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\Common Files\Microsoft Shared\Web Server Extensions\15\ISAPI\Microsoft.SharePoint.Search.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SharePoint.Taxonomy, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\Common Files\Microsoft Shared\Web Server Extensions\15\ISAPI\Microsoft.SharePoint.Taxonomy.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddSandboxedSolutions.cs" />
+    <Compile Include="ContentOrganizerConditionalData.cs" />
+    <Compile Include="ContentOrganizerCreator.cs" />
+    <Compile Include="ContentOrganizerCreatorImpl.cs" />
+    <Compile Include="ContentOrganizerRuleCreationData.cs" />
+    <Compile Include="ContentTypeOperations.cs" />
+    <Compile Include="CustomContentOrganizerRouterRegistrar.cs" />
+    <Compile Include="DocIconOperations.cs" />
+    <Compile Include="EventReceiverContext.cs" />
+    <Compile Include="FaceBookGraphAPIOperations.cs" />
+    <Compile Include="FeatureActivator.cs" />
+    <Compile Include="FieldOperations.cs" />
+    <Compile Include="GooglePlusProfileOperations.cs" />
+    <Compile Include="IAddSandboxedSolutions.cs" />
+    <Compile Include="IAutofolderCreator.cs" />
+    <Compile Include="IContentOrganizerConditionalData.cs" />
+    <Compile Include="IContentOrganizerCreator.cs" />
+    <Compile Include="IContentOrganizerCreatorImpl.cs" />
+    <Compile Include="IContentOrganizerRuleCreationData.cs" />
+    <Compile Include="ICustomContentOrganizerRouterRegistrar.cs" />
+    <Compile Include="IFaceBookGraphAPIOperations.cs" />
+    <Compile Include="ILinkToDocumentCreator.cs" />
+    <Compile Include="IListTemplateFinder.cs" />
+    <Compile Include="ISLAMConfigurationGenerator.cs" />
+    <Compile Include="IUserParser.cs" />
+    <Compile Include="IWikiPagesOperations.cs" />
+    <Compile Include="IWorkflowMessageParser.cs" />
+    <Compile Include="IWorkflowOperations.cs" />
+    <Compile Include="IContentTypeOperations.cs" />
+    <Compile Include="IDocIconOperations.cs" />
+    <Compile Include="IFeatureActivation.cs" />
+    <Compile Include="IFieldOperations.cs" />
+    <Compile Include="IListOperations.cs" />
+    <Compile Include="ILogUtility.cs" />
+    <Compile Include="IManagedMetaDataOperations.cs" />
+    <Compile Include="IModifyContentType.cs" />
+    <Compile Include="IModifyView.cs" />
+    <Compile Include="INavigationCustomization.cs" />
+    <Compile Include="ISPFileOperations.cs" />
+    <Compile Include="ISPUserOperations.cs" />
+    <Compile Include="ITimerJobOperations.cs" />
+    <Compile Include="IWebPartOperations.cs" />
+    <Compile Include="ISiteColumnOperations.cs" />
+    <Compile Include="LinkToDocumentCreator.cs" />
+    <Compile Include="ListLogger.cs" />
+    <Compile Include="ListOperations.cs" />
+    <Compile Include="ListTemplateFinder.cs" />
+    <Compile Include="LoggingService.cs" />
+    <Compile Include="LogUtility.cs" />
+    <Compile Include="ManagedMetadataAutofolder.cs" />
+    <Compile Include="ManagedMetaDataOperations.cs" />
+    <Compile Include="ModifyContentType.cs" />
+    <Compile Include="ModifyView.cs" />
+    <Compile Include="Module.cs" />
+    <Compile Include="NavigationCustomization.cs" />
+    <Compile Include="PostBackEventMenuItem.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ServiceLocationRegistration.cs" />
+    <Compile Include="SharePointUtilities.cs" />
+    <Compile Include="SiteColumnOperations.cs" />
+    <Compile Include="SLAMConfigurationGenerator.cs" />
+    <Compile Include="SPFileOperations.cs" />
+    <Compile Include="SPUserOperations.cs" />
+    <Compile Include="SPWebServiceLocator.cs" />
+    <Compile Include="TimerJobOperations.cs" />
+    <Compile Include="UserParser.cs" />
+    <Compile Include="ValidationHelper.cs" />
+    <Compile Include="WebPartOperations.cs" />
+    <Compile Include="WikiPagesOperations.cs" />
+    <Compile Include="WorkflowMessageParser.cs" />
+    <Compile Include="WorkflowOperations.cs" />
+    <Compile Include="XMLSPProvisioningProvider.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="MySP2010UtilityKey.pfx" />
+    <None Include="packages.config" />
+    <None Include="Utilities.pfx" />
+    <None Include="Utilities1.pfx" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

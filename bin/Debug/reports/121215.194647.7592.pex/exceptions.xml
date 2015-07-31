@@ -1,0 +1,1277 @@
+﻿<frameTree version="0.94.51023.0"><frameException type="System.ArgumentNullException"><tag exceptionState="unexpected"><generatedTestRef idref="b4efc89c-175d-4fa4-86a0-908322d89d7c"/>
+</tag>
+<frameNode><frame value="  at SharePointUtilities.ActivateFeatureIfNecessary(SPSite, Guid)" method="SharePointUtilities.ActivateFeatureIfNecessary(SPSite, Guid)" offset="7"><method assemblyName="EdokpayiUtilities" name="ActivateFeatureIfNecessary" static="true" token="6000021"><declaringType assemblyName="EdokpayiUtilities" name="SharePointUtilities" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter name="site" position="0"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPSite" token="20008c3" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="featureGuid" position="1"><type spec="ValueType"><definition assemblyName="mscorlib" valueType="true" name="Guid" token="20000e4" namespace="System"/>
+</type>
+</parameter>
+<resultType spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPFeature" token="200071c" namespace="Microsoft.SharePoint"/>
+</resultType>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="b4efc89c-175d-4fa4-86a0-908322d89d7c"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at SharePointUtilities.ActivateFeatureIfNecessary(SPWeb, Guid)" method="SharePointUtilities.ActivateFeatureIfNecessary(SPWeb, Guid)" offset="7"><method assemblyName="EdokpayiUtilities" name="ActivateFeatureIfNecessary" static="true" token="6000022"><declaringType assemblyName="EdokpayiUtilities" name="SharePointUtilities" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter name="web" position="0"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPWeb" token="2000951" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="featureGuid" position="1"><type spec="ValueType"><definition assemblyName="mscorlib" valueType="true" name="Guid" token="20000e4" namespace="System"/>
+</type>
+</parameter>
+<resultType spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPFeature" token="200071c" namespace="Microsoft.SharePoint"/>
+</resultType>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="a958ade5-7fc2-43e9-b949-6442317a9544"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at SharePointUtilities.ActivateFeatureIfNecessary(SPWeb, Guid, Boolean, SPFeatureDefinitionScope)" method="SharePointUtilities.ActivateFeatureIfNecessary(SPWeb, Guid, Boolean, SPFeatureDefinitionScope)" offset="7"><method assemblyName="EdokpayiUtilities" name="ActivateFeatureIfNecessary" static="true" token="6000026"><declaringType assemblyName="EdokpayiUtilities" name="SharePointUtilities" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter name="web" position="0"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPWeb" token="2000951" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="featureGuid" position="1"><type spec="ValueType"><definition assemblyName="mscorlib" valueType="true" name="Guid" token="20000e4" namespace="System"/>
+</type>
+</parameter>
+<parameter name="force" position="2"><type spec="ValueType"><definition assemblyName="mscorlib" valueType="true" name="Boolean" token="200009e" namespace="System"/>
+</type>
+</parameter>
+<parameter name="sPFeatureDefinitionScope" position="3"><type spec="ValueType"><definition assemblyName="Microsoft.SharePoint" valueType="true" name="SPFeatureDefinitionScope" token="200071a" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<resultType spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPFeature" token="200071c" namespace="Microsoft.SharePoint"/>
+</resultType>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="511c81cf-e0ef-41c1-b668-2585d2d9bdb5"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at SharePointUtilities.ActivateFeatureIfNecessary(SPSite, Guid, Boolean, SPFeatureDefinitionScope)" method="SharePointUtilities.ActivateFeatureIfNecessary(SPSite, Guid, Boolean, SPFeatureDefinitionScope)" offset="7"><method assemblyName="EdokpayiUtilities" name="ActivateFeatureIfNecessary" static="true" token="6000027"><declaringType assemblyName="EdokpayiUtilities" name="SharePointUtilities" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter name="site" position="0"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPSite" token="20008c3" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="featureGuid" position="1"><type spec="ValueType"><definition assemblyName="mscorlib" valueType="true" name="Guid" token="20000e4" namespace="System"/>
+</type>
+</parameter>
+<parameter name="force" position="2"><type spec="ValueType"><definition assemblyName="mscorlib" valueType="true" name="Boolean" token="200009e" namespace="System"/>
+</type>
+</parameter>
+<parameter name="sPFeatureDefinitionScope" position="3"><type spec="ValueType"><definition assemblyName="Microsoft.SharePoint" valueType="true" name="SPFeatureDefinitionScope" token="200071a" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<resultType spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPFeature" token="200071c" namespace="Microsoft.SharePoint"/>
+</resultType>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="83a6f053-deaa-4bdd-a2b5-541461238fa5"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at SharePointUtilities.AddEventReceiverToContentType(String, SPContentType, String, SPEventReceiverType, SPEventReceiverSynchronization)" method="SharePointUtilities.AddEventReceiverToContentType(String, SPContentType, String, SPEventReceiverType, SPEventReceiverSynchronization)" offset="19"><method assemblyName="EdokpayiUtilities" name="AddEventReceiverToContentType" static="true" token="6000036"><declaringType assemblyName="EdokpayiUtilities" name="SharePointUtilities" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter name="className" position="0"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+<parameter name="contentType" position="1"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPContentType" token="200069a" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="assemblyName" position="2"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+<parameter name="eventReceiverType" position="3"><type spec="ValueType"><definition assemblyName="Microsoft.SharePoint" valueType="true" name="SPEventReceiverType" token="20006e4" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="eventReceiverSynchronization" position="4"><type spec="ValueType"><definition assemblyName="Microsoft.SharePoint" valueType="true" name="SPEventReceiverSynchronization" token="20006e3" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="39ae8cb8-f88a-4f8f-8e75-71b950e14020"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at SharePointUtilities.AddFieldToContentType(SPContentType, SPField)" method="SharePointUtilities.AddFieldToContentType(SPContentType, SPField)" offset="20"><method assemblyName="EdokpayiUtilities" name="AddFieldToContentType" static="true" token="600002a"><declaringType assemblyName="EdokpayiUtilities" name="SharePointUtilities" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter name="cType" position="0"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPContentType" token="200069a" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="field" position="1"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPField" token="2000736" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="219b15d4-6d05-4fbd-9877-c34fd1facf5d"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at SharePointUtilities.AddFieldToContentType(SPContentType, IEnumerable`1&lt;SPField&gt;)" method="SharePointUtilities.AddFieldToContentType(SPContentType, IEnumerable`1&lt;SPField&gt;)" offset="7"><method assemblyName="EdokpayiUtilities" name="AddFieldToContentType" static="true" token="600002b"><declaringType assemblyName="EdokpayiUtilities" name="SharePointUtilities" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter name="cType" position="0"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPContentType" token="200069a" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="fields" position="1"><type spec="Class"><definition assemblyName="mscorlib" name="IEnumerable`1" token="2000036" namespace="System.Collections.Generic"><genericParameter value="T"/>
+</definition>
+<genericTypeArgument spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPField" token="2000736" namespace="Microsoft.SharePoint"/>
+</genericTypeArgument>
+</type>
+</parameter>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="4421a032-07d9-41a3-b3eb-70a64f29ea74"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at SharePointUtilities.AddFieldToList(SPList, SPField)" method="SharePointUtilities.AddFieldToList(SPList, SPField)" offset="7"><method assemblyName="EdokpayiUtilities" name="AddFieldToList" static="true" token="600002c"><declaringType assemblyName="EdokpayiUtilities" name="SharePointUtilities" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter name="list" position="0"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPList" token="200023c" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="field" position="1"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPField" token="2000736" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="81b3586d-e573-4493-90ea-d7bf24b711e8"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at SharePointUtilities.AddFieldToList(SPList, IEnumerable`1&lt;SPField&gt;)" method="SharePointUtilities.AddFieldToList(SPList, IEnumerable`1&lt;SPField&gt;)" offset="7"><method assemblyName="EdokpayiUtilities" name="AddFieldToList" static="true" token="600002d"><declaringType assemblyName="EdokpayiUtilities" name="SharePointUtilities" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter name="list" position="0"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPList" token="200023c" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="fields" position="1"><type spec="Class"><definition assemblyName="mscorlib" name="IEnumerable`1" token="2000036" namespace="System.Collections.Generic"><genericParameter value="T"/>
+</definition>
+<genericTypeArgument spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPField" token="2000736" namespace="Microsoft.SharePoint"/>
+</genericTypeArgument>
+</type>
+</parameter>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="70917d6a-aec0-42a3-9d9e-dfc8c74412e7"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at SharePointUtilitiesTest.AddListToPage(SPList, String, String, SPLimitedWebPartManager, Int32)" method="SharePointUtilitiesTest.AddListToPage(SPList, String, String, SPLimitedWebPartManager, Int32)" offset="15"><method assemblyName="EdokpayiUtilities.Tests" name="AddListToPage" token="600000a"><declaringType assemblyName="EdokpayiUtilities.Tests" name="SharePointUtilitiesTest" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter this="true" name="this" position="0"><type spec="Class"><definition assemblyName="EdokpayiUtilities.Tests" name="SharePointUtilitiesTest" token="2000002" namespace="EdokpayiUtilities"/>
+</type>
+</parameter>
+<parameter name="list" position="1"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPList" token="200023c" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="title" position="2"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+<parameter name="zone" position="3"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+<parameter name="webPartManager" position="4"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPLimitedWebPartManager" token="200140b" namespace="Microsoft.SharePoint.WebPartPages"/>
+</type>
+</parameter>
+<parameter name="index" position="5"><type spec="ValueType"><definition assemblyName="mscorlib" valueType="true" name="Int32" token="20000f3" namespace="System"/>
+</type>
+</parameter>
+<resultType spec="Class"><definition assemblyName="Microsoft.SharePoint" name="ListViewWebPart" token="200136b" namespace="Microsoft.SharePoint.WebPartPages"/>
+</resultType>
+</method>
+</frame>
+<tag exceptionState="expected"><generatedTestRef idref="fa37303f-9389-4f8f-90b5-fc70fb1be6e6"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at SharePointUtilities.AddListToPage(SPList, String, String, SPLimitedWebPartManager, Int32, String)" method="SharePointUtilities.AddListToPage(SPList, String, String, SPLimitedWebPartManager, Int32, String)" offset="7"><method assemblyName="EdokpayiUtilities" name="AddListToPage" static="true" token="600000a"><declaringType assemblyName="EdokpayiUtilities" name="SharePointUtilities" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter name="list" position="0"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPList" token="200023c" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="title" position="1"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+<parameter name="zone" position="2"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+<parameter name="webPartManager" position="3"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPLimitedWebPartManager" token="200140b" namespace="Microsoft.SharePoint.WebPartPages"/>
+</type>
+</parameter>
+<parameter name="index" position="4"><type spec="ValueType"><definition assemblyName="mscorlib" valueType="true" name="Int32" token="20000f3" namespace="System"/>
+</type>
+</parameter>
+<parameter name="viewName" position="5"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="f2a011d5-a82b-46b3-9a8d-cc548cec3197"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at SharePointUtilities.AddPageToNavigation(SPWeb, SPFile, String)" method="SharePointUtilities.AddPageToNavigation(SPWeb, SPFile, String)" offset="7"><method assemblyName="EdokpayiUtilities" name="AddPageToNavigation" static="true" token="600001d"><declaringType assemblyName="EdokpayiUtilities" name="SharePointUtilities" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter name="web" position="0"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPWeb" token="2000951" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="page" position="1"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPFile" token="200077e" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="navTitle" position="2"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="65901893-2db0-4871-93e1-102e4d34d6ef"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at SharePointUtilities.AddSandboxedSolution(SPSite, Byte[], String)" method="SharePointUtilities.AddSandboxedSolution(SPSite, Byte[], String)" offset="7"><method assemblyName="EdokpayiUtilities" name="AddSandboxedSolution" static="true" token="6000023"><declaringType assemblyName="EdokpayiUtilities" name="SharePointUtilities" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter name="site" position="0"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPSite" token="20008c3" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="fileData" position="1"><type spec="SzArray"><elementType spec="ValueType"><definition assemblyName="mscorlib" valueType="true" name="Byte" token="20000a0" namespace="System"/>
+</elementType>
+</type>
+</parameter>
+<parameter name="solutionName" position="2"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+<resultType spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPUserSolution" token="200093f" namespace="Microsoft.SharePoint"/>
+</resultType>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="00aa7362-3253-4cca-94b3-dfbffd755704"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at SharePointUtilities.AddSandboxedSolution(SPSite, String, String)" method="SharePointUtilities.AddSandboxedSolution(SPSite, String, String)" offset="7"><method assemblyName="EdokpayiUtilities" name="AddSandboxedSolution" static="true" token="6000024"><declaringType assemblyName="EdokpayiUtilities" name="SharePointUtilities" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter name="site" position="0"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPSite" token="20008c3" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="path" position="1"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+<parameter name="solutionName" position="2"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+<resultType spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPUserSolution" token="200093f" namespace="Microsoft.SharePoint"/>
+</resultType>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="8dbf6a00-f9e8-4769-be0f-e997d1bc3758"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at SharePointUtilities.AddWebPart(SPLimitedWebPartManager, WebPart, String, Int32, PartChromeType, String)" method="SharePointUtilities.AddWebPart(SPLimitedWebPartManager, WebPart, String, Int32, PartChromeType, String)" offset="7"><method assemblyName="EdokpayiUtilities" name="AddWebPart" static="true" token="600001e"><declaringType assemblyName="EdokpayiUtilities" name="SharePointUtilities" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter name="webPartManager" position="0"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPLimitedWebPartManager" token="200140b" namespace="Microsoft.SharePoint.WebPartPages"/>
+</type>
+</parameter>
+<parameter name="webPart" position="1"><type spec="Class"><definition assemblyName="System.Web" name="WebPart" token="20007e6" namespace="System.Web.UI.WebControls.WebParts"/>
+</type>
+</parameter>
+<parameter name="zone" position="2"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+<parameter name="zoneIndex" position="3"><type spec="ValueType"><definition assemblyName="mscorlib" valueType="true" name="Int32" token="20000f3" namespace="System"/>
+</type>
+</parameter>
+<parameter name="chromeType" position="4"><type spec="ValueType"><definition assemblyName="System.Web" valueType="true" name="PartChromeType" token="20007fb" namespace="System.Web.UI.WebControls.WebParts"/>
+</type>
+</parameter>
+<parameter name="accesskey" position="5"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="438ef772-9b4a-436c-a723-2e6a076a65ff"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at SharePointUtilities.AddWorkflow(SPWeb, SPList, SPList, SPList, String, String)" method="SharePointUtilities.AddWorkflow(SPWeb, SPList, SPList, SPList, String, String)" offset="7"><method assemblyName="EdokpayiUtilities" name="AddWorkflow" static="true" token="6000013"><declaringType assemblyName="EdokpayiUtilities" name="SharePointUtilities" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter name="web" position="0"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPWeb" token="2000951" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="list" position="1"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPList" token="200023c" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="tasks" position="2"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPList" token="200023c" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="workflowHistory" position="3"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPList" token="200023c" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="workflowTemplateName" position="4"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+<parameter name="workflowName" position="5"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="49c3d758-e266-47b2-8d67-a92bf2c9feed"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at SharePointUtilities.AddWorkflow(SPWeb, SPContentType, SPList, SPList, String, String)" method="SharePointUtilities.AddWorkflow(SPWeb, SPContentType, SPList, SPList, String, String)" offset="7"><method assemblyName="EdokpayiUtilities" name="AddWorkflow" static="true" token="6000035"><declaringType assemblyName="EdokpayiUtilities" name="SharePointUtilities" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter name="web" position="0"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPWeb" token="2000951" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="contentType" position="1"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPContentType" token="200069a" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="tasks" position="2"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPList" token="200023c" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="workflowHistory" position="3"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPList" token="200023c" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="workflowTemplateName" position="4"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+<parameter name="workflowName" position="5"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="69757133-606d-4bef-9834-66e79efcc2ed"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at SharePointUtilities.ChangeTitleDisplayName(SPList, String)" method="SharePointUtilities.ChangeTitleDisplayName(SPList, String)" offset="7"><method assemblyName="EdokpayiUtilities" name="ChangeTitleDisplayName" static="true" token="600001f"><declaringType assemblyName="EdokpayiUtilities" name="SharePointUtilities" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter name="list" position="0"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPList" token="200023c" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="newTitle" position="1"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="97602310-96c1-426d-8bdd-031f744832f6"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at SharePointUtilities.ChangeTitleDisplayName(SPContentType, String)" method="SharePointUtilities.ChangeTitleDisplayName(SPContentType, String)" offset="7"><method assemblyName="EdokpayiUtilities" name="ChangeTitleDisplayName" static="true" token="6000020"><declaringType assemblyName="EdokpayiUtilities" name="SharePointUtilities" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter name="contentType" position="0"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPContentType" token="200069a" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="newTitle" position="1"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="570742d0-d248-4f89-94d5-caba2ec9ea44"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at SharePointUtilities.ConnectListViewWebParts(SPLimitedWebPartManager, ListViewWebPart, ListViewWebPart, SPRowToParametersTransformer, String, String)" method="SharePointUtilities.ConnectListViewWebParts(SPLimitedWebPartManager, ListViewWebPart, ListViewWebPart, SPRowToParametersTransformer, String, String)" offset="7"><method assemblyName="EdokpayiUtilities" name="ConnectListViewWebParts" static="true" token="600003f"><declaringType assemblyName="EdokpayiUtilities" name="SharePointUtilities" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter name="webPartManager" position="0"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPLimitedWebPartManager" token="200140b" namespace="Microsoft.SharePoint.WebPartPages"/>
+</type>
+</parameter>
+<parameter name="providerWebPart" position="1"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="ListViewWebPart" token="200136b" namespace="Microsoft.SharePoint.WebPartPages"/>
+</type>
+</parameter>
+<parameter name="consumerWebPart" position="2"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="ListViewWebPart" token="200136b" namespace="Microsoft.SharePoint.WebPartPages"/>
+</type>
+</parameter>
+<parameter name="transformer" position="3"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPRowToParametersTransformer" token="2001417" namespace="Microsoft.SharePoint.WebPartPages"/>
+</type>
+</parameter>
+<parameter name="consumerInternalFieldName" position="4"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+<parameter name="providerInternalFieldName" position="5"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="8db05075-49bb-46ec-903f-8682a03a0bef"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at SharePointUtilities.CreateChoiceSiteColumn(SPWeb, String, IEnumerable`1&lt;String&gt;, Boolean)" method="SharePointUtilities.CreateChoiceSiteColumn(SPWeb, String, IEnumerable`1&lt;String&gt;, Boolean)" offset="7"><method assemblyName="EdokpayiUtilities" name="CreateChoiceSiteColumn" static="true" token="6000014"><declaringType assemblyName="EdokpayiUtilities" name="SharePointUtilities" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter name="web" position="0"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPWeb" token="2000951" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="fieldName" position="1"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+<parameter name="choices" position="2"><type spec="Class"><definition assemblyName="mscorlib" name="IEnumerable`1" token="2000036" namespace="System.Collections.Generic"><genericParameter value="T"/>
+</definition>
+<genericTypeArgument spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</genericTypeArgument>
+</type>
+</parameter>
+<parameter name="required" position="3"><type spec="ValueType"><definition assemblyName="mscorlib" valueType="true" name="Boolean" token="200009e" namespace="System"/>
+</type>
+</parameter>
+<resultType spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPFieldChoice" token="2000749" namespace="Microsoft.SharePoint"/>
+</resultType>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="5230a4a1-510f-4a98-9aed-290548db0769"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at SharePointUtilities.CreateContentEditorWebPart(SPLimitedWebPartManager, String, String, Int32, PartChromeType, String)" method="SharePointUtilities.CreateContentEditorWebPart(SPLimitedWebPartManager, String, String, Int32, PartChromeType, String)" offset="7"><method assemblyName="EdokpayiUtilities" name="CreateContentEditorWebPart" static="true" token="600000b"><declaringType assemblyName="EdokpayiUtilities" name="SharePointUtilities" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter name="webPartManager" position="0"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPLimitedWebPartManager" token="200140b" namespace="Microsoft.SharePoint.WebPartPages"/>
+</type>
+</parameter>
+<parameter name="Content" position="1"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+<parameter name="zone" position="2"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+<parameter name="zoneIndex" position="3"><type spec="ValueType"><definition assemblyName="mscorlib" valueType="true" name="Int32" token="20000f3" namespace="System"/>
+</type>
+</parameter>
+<parameter name="chromeType" position="4"><type spec="ValueType"><definition assemblyName="System.Web" valueType="true" name="PartChromeType" token="20007fb" namespace="System.Web.UI.WebControls.WebParts"/>
+</type>
+</parameter>
+<parameter name="webPartTitle" position="5"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="85bbbb3a-b2a9-4496-a426-e24c656992eb"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at SharePointUtilities.CreateContentType(SPContentType, SPWeb, String, String, IEnumerable`1&lt;SPField&gt;)" method="SharePointUtilities.CreateContentType(SPContentType, SPWeb, String, String, IEnumerable`1&lt;SPField&gt;)" offset="7"><method assemblyName="EdokpayiUtilities" name="CreateContentType" static="true" token="600000e"><declaringType assemblyName="EdokpayiUtilities" name="SharePointUtilities" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter name="parentType" position="0"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPContentType" token="200069a" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="web" position="1"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPWeb" token="2000951" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="contentTypeName" position="2"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+<parameter name="contentTypeGroup" position="3"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+<parameter name="fields" position="4"><type spec="Class"><definition assemblyName="mscorlib" name="IEnumerable`1" token="2000036" namespace="System.Collections.Generic"><genericParameter value="T"/>
+</definition>
+<genericTypeArgument spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPField" token="2000736" namespace="Microsoft.SharePoint"/>
+</genericTypeArgument>
+</type>
+</parameter>
+<resultType spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPContentType" token="200069a" namespace="Microsoft.SharePoint"/>
+</resultType>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="f545c9d4-9e00-405a-8b78-17c432098b40"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at SharePointUtilitiesTest.CreateList(SPWeb, String, String, SPListTemplateType)" method="SharePointUtilitiesTest.CreateList(SPWeb, String, String, SPListTemplateType)" offset="9"><method assemblyName="EdokpayiUtilities.Tests" name="CreateList" token="6000019"><declaringType assemblyName="EdokpayiUtilities.Tests" name="SharePointUtilitiesTest" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter this="true" name="this" position="0"><type spec="Class"><definition assemblyName="EdokpayiUtilities.Tests" name="SharePointUtilitiesTest" token="2000002" namespace="EdokpayiUtilities"/>
+</type>
+</parameter>
+<parameter name="webSite" position="1"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPWeb" token="2000951" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="listName" position="2"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+<parameter name="listDescription" position="3"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+<parameter name="listTemplate" position="4"><type spec="ValueType"><definition assemblyName="Microsoft.SharePoint" valueType="true" name="SPListTemplateType" token="20007bd" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<resultType spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPList" token="200023c" namespace="Microsoft.SharePoint"/>
+</resultType>
+</method>
+</frame>
+<tag exceptionState="expected"><generatedTestRef idref="9049191e-69bb-4b85-88c7-36ea4fde83a0"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at SharePointUtilities.CreateLookupSiteColumn(SPWeb, SPList, String, Boolean)" method="SharePointUtilities.CreateLookupSiteColumn(SPWeb, SPList, String, Boolean)" offset="7"><method assemblyName="EdokpayiUtilities" name="CreateLookupSiteColumn" static="true" token="600000d"><declaringType assemblyName="EdokpayiUtilities" name="SharePointUtilities" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter name="web" position="0"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPWeb" token="2000951" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="list" position="1"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPList" token="200023c" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="title" position="2"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+<parameter name="required" position="3"><type spec="ValueType"><definition assemblyName="mscorlib" valueType="true" name="Boolean" token="200009e" namespace="System"/>
+</type>
+</parameter>
+<resultType spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPFieldLookup" token="200074c" namespace="Microsoft.SharePoint"/>
+</resultType>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="473a421b-1afc-4b03-a07f-523f3b93cbdf"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at SharePointUtilities.CreateMangedMetadataSiteColumn(SPWeb, String, TermSet, String)" method="SharePointUtilities.CreateMangedMetadataSiteColumn(SPWeb, String, TermSet, String)" offset="7"><method assemblyName="EdokpayiUtilities" name="CreateMangedMetadataSiteColumn" static="true" token="6000025"><declaringType assemblyName="EdokpayiUtilities" name="SharePointUtilities" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter name="web" position="0"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPWeb" token="2000951" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="fieldName" position="1"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+<parameter name="termSet" position="2"><type spec="Class"><definition assemblyName="Microsoft.SharePoint.Taxonomy" name="TermSet" token="2000149" namespace="Microsoft.SharePoint.Taxonomy"/>
+</type>
+</parameter>
+<parameter name="GroupName" position="3"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+<resultType spec="Class"><definition assemblyName="Microsoft.SharePoint.Taxonomy" name="TaxonomyField" token="200012e" namespace="Microsoft.SharePoint.Taxonomy"/>
+</resultType>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="4503800f-2e15-4177-87f3-e0e8bb61931c"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at SharePointUtilities.CreatePage(SPList, String, SPTemplateFileType)" method="SharePointUtilities.CreatePage(SPList, String, SPTemplateFileType)" offset="7"><method assemblyName="EdokpayiUtilities" name="CreatePage" static="true" token="600003e"><declaringType assemblyName="EdokpayiUtilities" name="SharePointUtilities" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter name="list" position="0"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPList" token="200023c" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="fileName" position="1"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+<parameter name="fileType" position="2"><type spec="ValueType"><definition assemblyName="Microsoft.SharePoint" valueType="true" name="SPTemplateFileType" token="200078f" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<resultType spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPFile" token="200077e" namespace="Microsoft.SharePoint"/>
+</resultType>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="1fdf56f2-1a2d-41e0-9d92-12708f8d89ef"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at SharePointUtilities.CreateSiteColumn(SPWeb, String, SPFieldType, Boolean)" method="SharePointUtilities.CreateSiteColumn(SPWeb, String, SPFieldType, Boolean)" offset="7"><method assemblyName="EdokpayiUtilities" name="CreateSiteColumn" static="true" token="600000c"><declaringType assemblyName="EdokpayiUtilities" name="SharePointUtilities" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter name="web" position="0"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPWeb" token="2000951" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="fieldName" position="1"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+<parameter name="spFieldType" position="2"><type spec="ValueType"><definition assemblyName="Microsoft.SharePoint" valueType="true" name="SPFieldType" token="200120e" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="required" position="3"><type spec="ValueType"><definition assemblyName="mscorlib" valueType="true" name="Boolean" token="200009e" namespace="System"/>
+</type>
+</parameter>
+<resultType spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPField" token="2000736" namespace="Microsoft.SharePoint"/>
+</resultType>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="7c644fc5-72a1-4c37-a470-e7e7d5f4ceca"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at SharePointUtilities.CreateTerm(Term, Guid, String, Int32)" method="SharePointUtilities.CreateTerm(Term, Guid, String, Int32)" offset="7"><method assemblyName="EdokpayiUtilities" name="CreateTerm" static="true" token="600002e"><declaringType assemblyName="EdokpayiUtilities" name="SharePointUtilities" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter name="term" position="0"><type spec="Class"><definition assemblyName="Microsoft.SharePoint.Taxonomy" name="Term" token="2000147" namespace="Microsoft.SharePoint.Taxonomy"/>
+</type>
+</parameter>
+<parameter name="termGuid" position="1"><type spec="ValueType"><definition assemblyName="mscorlib" valueType="true" name="Guid" token="20000e4" namespace="System"/>
+</type>
+</parameter>
+<parameter name="nameString" position="2"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+<parameter name="LCID" position="3"><type spec="ValueType"><definition assemblyName="mscorlib" valueType="true" name="Int32" token="20000f3" namespace="System"/>
+</type>
+</parameter>
+<resultType spec="Class"><definition assemblyName="Microsoft.SharePoint.Taxonomy" name="Term" token="2000147" namespace="Microsoft.SharePoint.Taxonomy"/>
+</resultType>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="9869c2f9-02d9-478f-abdd-234502a959ef"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at SharePointUtilities.CreateTerm(TermSet, Guid, String, Int32)" method="SharePointUtilities.CreateTerm(TermSet, Guid, String, Int32)" offset="7"><method assemblyName="EdokpayiUtilities" name="CreateTerm" static="true" token="600002f"><declaringType assemblyName="EdokpayiUtilities" name="SharePointUtilities" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter name="termSet" position="0"><type spec="Class"><definition assemblyName="Microsoft.SharePoint.Taxonomy" name="TermSet" token="2000149" namespace="Microsoft.SharePoint.Taxonomy"/>
+</type>
+</parameter>
+<parameter name="termGuid" position="1"><type spec="ValueType"><definition assemblyName="mscorlib" valueType="true" name="Guid" token="20000e4" namespace="System"/>
+</type>
+</parameter>
+<parameter name="nameString" position="2"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+<parameter name="LCID" position="3"><type spec="ValueType"><definition assemblyName="mscorlib" valueType="true" name="Int32" token="20000f3" namespace="System"/>
+</type>
+</parameter>
+<resultType spec="Class"><definition assemblyName="Microsoft.SharePoint.Taxonomy" name="Term" token="2000147" namespace="Microsoft.SharePoint.Taxonomy"/>
+</resultType>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="e575333d-528c-4b5e-a2ae-409b9b0b7917"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at SharePointUtilities.CreateWiki(SPWeb, String, String)" method="SharePointUtilities.CreateWiki(SPWeb, String, String)" offset="7"><method assemblyName="EdokpayiUtilities" name="CreateWiki" static="true" token="600003c"><declaringType assemblyName="EdokpayiUtilities" name="SharePointUtilities" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter name="web" position="0"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPWeb" token="2000951" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="title" position="1"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+<parameter name="description" position="2"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+<resultType spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPList" token="200023c" namespace="Microsoft.SharePoint"/>
+</resultType>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="d90494f9-435b-4b94-aa8f-a676f9e558db"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at SharePointUtilities.DeleteList(SPWeb, String)" method="SharePointUtilities.DeleteList(SPWeb, String)" offset="7"><method assemblyName="EdokpayiUtilities" name="DeleteList" static="true" token="6000037"><declaringType assemblyName="EdokpayiUtilities" name="SharePointUtilities" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter name="web" position="0"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPWeb" token="2000951" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="ListTitle" position="1"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="c01b43a5-edac-4067-939e-416c2aee121b"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at SharePointUtilities.FindTerm(TermSet, Guid, String)" method="SharePointUtilities.FindTerm(TermSet, Guid, String)" offset="27"><method assemblyName="EdokpayiUtilities" name="FindTerm" static="true" token="6000030"><declaringType assemblyName="EdokpayiUtilities" name="SharePointUtilities" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter name="termSet" position="0"><type spec="Class"><definition assemblyName="Microsoft.SharePoint.Taxonomy" name="TermSet" token="2000149" namespace="Microsoft.SharePoint.Taxonomy"/>
+</type>
+</parameter>
+<parameter name="termGuid" position="1"><type spec="ValueType"><definition assemblyName="mscorlib" valueType="true" name="Guid" token="20000e4" namespace="System"/>
+</type>
+</parameter>
+<parameter name="nameString" position="2"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+<resultType spec="Class"><definition assemblyName="Microsoft.SharePoint.Taxonomy" name="Term" token="2000147" namespace="Microsoft.SharePoint.Taxonomy"/>
+</resultType>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="de60e407-e85d-43e5-964a-34ffc94ceb0a"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at SharePointUtilities.FindTerm(Term, Guid, String)" method="SharePointUtilities.FindTerm(Term, Guid, String)" offset="27"><method assemblyName="EdokpayiUtilities" name="FindTerm" static="true" token="6000031"><declaringType assemblyName="EdokpayiUtilities" name="SharePointUtilities" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter name="term" position="0"><type spec="Class"><definition assemblyName="Microsoft.SharePoint.Taxonomy" name="Term" token="2000147" namespace="Microsoft.SharePoint.Taxonomy"/>
+</type>
+</parameter>
+<parameter name="termGuid" position="1"><type spec="ValueType"><definition assemblyName="mscorlib" valueType="true" name="Guid" token="20000e4" namespace="System"/>
+</type>
+</parameter>
+<parameter name="nameString" position="2"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+<resultType spec="Class"><definition assemblyName="Microsoft.SharePoint.Taxonomy" name="Term" token="2000147" namespace="Microsoft.SharePoint.Taxonomy"/>
+</resultType>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="eec2a95a-dfdf-416a-b9ee-028c900e2153"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at SharePointUtilities.GetDefaultAssociationData(SPWeb, XDocument)" method="SharePointUtilities.GetDefaultAssociationData(SPWeb, XDocument)" offset="7"><method assemblyName="EdokpayiUtilities" name="GetDefaultAssociationData" static="true" token="6000019"><declaringType assemblyName="EdokpayiUtilities" name="SharePointUtilities" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter name="web" position="0"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPWeb" token="2000951" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="associationData" position="1"><type spec="Class"><definition assemblyName="System.Xml.Linq" name="XDocument" token="2000015" namespace="System.Xml.Linq"/>
+</type>
+</parameter>
+<resultType spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</resultType>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="7046bbe7-43a8-46f7-8067-0e307bd32621"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at SharePointUtilities.GetDefaultView(SPList)" method="SharePointUtilities.GetDefaultView(SPList)" offset="7"><method assemblyName="EdokpayiUtilities" name="GetDefaultView" static="true" token="6000015"><declaringType assemblyName="EdokpayiUtilities" name="SharePointUtilities" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter name="list" position="0"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPList" token="200023c" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<resultType spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPView" token="2000947" namespace="Microsoft.SharePoint"/>
+</resultType>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="f20089d6-b0dc-491c-84c8-a8452b122a5f"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at SharePointUtilities.GetWorkflowByName(SPWeb, String)" method="SharePointUtilities.GetWorkflowByName(SPWeb, String)" offset="20"><method assemblyName="EdokpayiUtilities" name="GetWorkflowByName" static="true" token="6000012"><declaringType assemblyName="EdokpayiUtilities" name="SharePointUtilities" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter name="web" position="0"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPWeb" token="2000951" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="workflowName" position="1"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+<resultType spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPWorkflowTemplate" token="2001064" namespace="Microsoft.SharePoint.Workflow"/>
+</resultType>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="641c0d5f-4d22-4509-905f-6c3bea526444"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at SharePointUtilities.MakeDefaultContentType(SPList, SPContentType)" method="SharePointUtilities.MakeDefaultContentType(SPList, SPContentType)" offset="7"><method assemblyName="EdokpayiUtilities" name="MakeDefaultContentType" static="true" token="600000f"><declaringType assemblyName="EdokpayiUtilities" name="SharePointUtilities" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter name="list" position="0"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPList" token="200023c" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="contentType" position="1"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPContentType" token="200069a" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="47f8aa1d-6b01-4716-b3bc-c37a3e5a373c"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at SharePointUtilities.ModifyView(SPList, IEnumerable`1&lt;String&gt;, String)" method="SharePointUtilities.ModifyView(SPList, IEnumerable`1&lt;String&gt;, String)" offset="7"><method assemblyName="EdokpayiUtilities" name="ModifyView" static="true" token="6000010"><declaringType assemblyName="EdokpayiUtilities" name="SharePointUtilities" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter name="list" position="0"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPList" token="200023c" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="ViewFields" position="1"><type spec="Class"><definition assemblyName="mscorlib" name="IEnumerable`1" token="2000036" namespace="System.Collections.Generic"><genericParameter value="T"/>
+</definition>
+<genericTypeArgument spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</genericTypeArgument>
+</type>
+</parameter>
+<parameter name="query" position="2"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="e4819e58-8f18-4f09-94e5-fb738e5ce5f2"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at SharePointUtilities.ModifyView(SPView, IEnumerable`1&lt;String&gt;, String)" method="SharePointUtilities.ModifyView(SPView, IEnumerable`1&lt;String&gt;, String)" offset="7"><method assemblyName="EdokpayiUtilities" name="ModifyView" static="true" token="6000011"><declaringType assemblyName="EdokpayiUtilities" name="SharePointUtilities" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter name="view" position="0"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPView" token="2000947" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="ViewFields" position="1"><type spec="Class"><definition assemblyName="mscorlib" name="IEnumerable`1" token="2000036" namespace="System.Collections.Generic"><genericParameter value="T"/>
+</definition>
+<genericTypeArgument spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</genericTypeArgument>
+</type>
+</parameter>
+<parameter name="query" position="2"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="a31e5909-6a70-497f-94e5-595fb5ed270e"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at SharePointUtilitiesTest.PropagateParentBranding(SPWeb)" method="SharePointUtilitiesTest.PropagateParentBranding(SPWeb)" offset="1"><method assemblyName="EdokpayiUtilities.Tests" name="PropagateParentBranding" token="6000030"><declaringType assemblyName="EdokpayiUtilities.Tests" name="SharePointUtilitiesTest" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter this="true" name="this" position="0"><type spec="Class"><definition assemblyName="EdokpayiUtilities.Tests" name="SharePointUtilitiesTest" token="2000002" namespace="EdokpayiUtilities"/>
+</type>
+</parameter>
+<parameter name="childSite" position="1"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPWeb" token="2000951" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+</method>
+</frame>
+<tag exceptionState="expected"><generatedTestRef idref="077267eb-ea04-4d51-9dc7-6e9d41f50aaa"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at SharePointUtilities.ReorderContentTypeFields(SPContentType, IEnumerable`1&lt;String&gt;)" method="SharePointUtilities.ReorderContentTypeFields(SPContentType, IEnumerable`1&lt;String&gt;)" offset="7"><method assemblyName="EdokpayiUtilities" name="ReorderContentTypeFields" static="true" token="6000034"><declaringType assemblyName="EdokpayiUtilities" name="SharePointUtilities" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter name="contentType" position="0"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPContentType" token="200069a" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="fields" position="1"><type spec="Class"><definition assemblyName="mscorlib" name="IEnumerable`1" token="2000036" namespace="System.Collections.Generic"><genericParameter value="T"/>
+</definition>
+<genericTypeArgument spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</genericTypeArgument>
+</type>
+</parameter>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="e7e9ce6c-8fc9-439c-99ba-95dea436f421"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at SharePointUtilitiesTest.SetDefaultBranding(SPSite)" method="SharePointUtilitiesTest.SetDefaultBranding(SPSite)" offset="1"><method assemblyName="EdokpayiUtilities.Tests" name="SetDefaultBranding" token="6000032"><declaringType assemblyName="EdokpayiUtilities.Tests" name="SharePointUtilitiesTest" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter this="true" name="this" position="0"><type spec="Class"><definition assemblyName="EdokpayiUtilities.Tests" name="SharePointUtilitiesTest" token="2000002" namespace="EdokpayiUtilities"/>
+</type>
+</parameter>
+<parameter name="siteCollection" position="1"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPSite" token="20008c3" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+</method>
+</frame>
+<tag exceptionState="expected"><generatedTestRef idref="fae031e2-0160-42f7-8e4c-5da5aec1bbeb"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at SharePointUtilitiesTest.SetDefaultTheme(SPSite, String)" method="SharePointUtilitiesTest.SetDefaultTheme(SPSite, String)" offset="2"><method assemblyName="EdokpayiUtilities.Tests" name="SetDefaultTheme" token="6000035"><declaringType assemblyName="EdokpayiUtilities.Tests" name="SharePointUtilitiesTest" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter this="true" name="this" position="0"><type spec="Class"><definition assemblyName="EdokpayiUtilities.Tests" name="SharePointUtilitiesTest" token="2000002" namespace="EdokpayiUtilities"/>
+</type>
+</parameter>
+<parameter name="siteCollection" position="1"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPSite" token="20008c3" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="themeName" position="2"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+</method>
+</frame>
+<tag exceptionState="expected"><generatedTestRef idref="8ef8f6bc-4ea6-42cd-9bb4-a230d44796fc"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at SharePointUtilitiesTest.SetMasterPage(SPSite, String, String, String, Int32)" method="SharePointUtilitiesTest.SetMasterPage(SPSite, String, String, String, Int32)" offset="15"><method assemblyName="EdokpayiUtilities.Tests" name="SetMasterPage" token="6000036"><declaringType assemblyName="EdokpayiUtilities.Tests" name="SharePointUtilitiesTest" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter this="true" name="this" position="0"><type spec="Class"><definition assemblyName="EdokpayiUtilities.Tests" name="SharePointUtilitiesTest" token="2000002" namespace="EdokpayiUtilities"/>
+</type>
+</parameter>
+<parameter name="siteCollection" position="1"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPSite" token="20008c3" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="masterPagePath" position="2"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+<parameter name="cssPath" position="3"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+<parameter name="siteLogoPath" position="4"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+<parameter name="uiVersion" position="5"><type spec="ValueType"><definition assemblyName="mscorlib" valueType="true" name="Int32" token="20000f3" namespace="System"/>
+</type>
+</parameter>
+</method>
+</frame>
+<tag exceptionState="expected"><generatedTestRef idref="e76dba5f-f488-41c6-a756-23911ae8c0bf"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at SharePointUtilitiesTest.SetMasterPage01(SPSite, String, Int32)" method="SharePointUtilitiesTest.SetMasterPage01(SPSite, String, Int32)" offset="3"><method assemblyName="EdokpayiUtilities.Tests" name="SetMasterPage01" token="6000037"><declaringType assemblyName="EdokpayiUtilities.Tests" name="SharePointUtilitiesTest" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter this="true" name="this" position="0"><type spec="Class"><definition assemblyName="EdokpayiUtilities.Tests" name="SharePointUtilitiesTest" token="2000002" namespace="EdokpayiUtilities"/>
+</type>
+</parameter>
+<parameter name="siteCollection" position="1"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPSite" token="20008c3" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="masterPagePath" position="2"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+<parameter name="uiVersion" position="3"><type spec="ValueType"><definition assemblyName="mscorlib" valueType="true" name="Int32" token="20000f3" namespace="System"/>
+</type>
+</parameter>
+</method>
+</frame>
+<tag exceptionState="expected"><generatedTestRef idref="26fd57ca-ef38-4cc1-9410-d0a27e29719e"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at SharePointUtilitiesTest.SetTheme(SPSite, String)" method="SharePointUtilitiesTest.SetTheme(SPSite, String)" offset="2"><method assemblyName="EdokpayiUtilities.Tests" name="SetTheme" token="6000038"><declaringType assemblyName="EdokpayiUtilities.Tests" name="SharePointUtilitiesTest" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter this="true" name="this" position="0"><type spec="Class"><definition assemblyName="EdokpayiUtilities.Tests" name="SharePointUtilitiesTest" token="2000002" namespace="EdokpayiUtilities"/>
+</type>
+</parameter>
+<parameter name="siteCollection" position="1"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPSite" token="20008c3" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="themeName" position="2"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+</method>
+</frame>
+<tag exceptionState="expected"><generatedTestRef idref="619dbdea-4dfb-49d1-ac2a-b234ef001e41"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at SharePointUtilities.TryFindContentType(SPWeb, String)" method="SharePointUtilities.TryFindContentType(SPWeb, String)" offset="20"><method assemblyName="EdokpayiUtilities" name="TryFindContentType" static="true" token="6000028"><declaringType assemblyName="EdokpayiUtilities" name="SharePointUtilities" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter name="rootWeb" position="0"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPWeb" token="2000951" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="contentTypeName" position="1"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+<resultType spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPContentType" token="200069a" namespace="Microsoft.SharePoint"/>
+</resultType>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="5727250d-913d-4821-b1a3-a0cbcda2e363"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at SharePointUtilities.TryGetField(SPFieldCollection, String)" method="SharePointUtilities.TryGetField(SPFieldCollection, String)" offset="7"><method assemblyName="EdokpayiUtilities" name="TryGetField" static="true" token="6000029"><declaringType assemblyName="EdokpayiUtilities" name="SharePointUtilities" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter name="siteColumns" position="0"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPFieldCollection" token="2000761" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="fieldName" position="1"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+<resultType spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPField" token="2000736" namespace="Microsoft.SharePoint"/>
+</resultType>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="e1dcb85b-67dc-494e-a3f7-b0fb347660d9"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at SharePointUtilities.UploadFromPath(SPDocumentLibrary, String, String)" method="SharePointUtilities.UploadFromPath(SPDocumentLibrary, String, String)" offset="7"><method assemblyName="EdokpayiUtilities" name="UploadFromPath" static="true" token="600001c"><declaringType assemblyName="EdokpayiUtilities" name="SharePointUtilities" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter name="library" position="0"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPDocumentLibrary" token="20006d8" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="path" position="1"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+<parameter name="fileName" position="2"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="54c4fa78-f38a-4235-b613-c36089e605b3"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at SharePointUtilities.UploadStream(SPDocumentLibrary, Stream, String)" method="SharePointUtilities.UploadStream(SPDocumentLibrary, Stream, String)" offset="7"><method assemblyName="EdokpayiUtilities" name="UploadStream" static="true" token="600001b"><declaringType assemblyName="EdokpayiUtilities" name="SharePointUtilities" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter name="library" position="0"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPDocumentLibrary" token="20006d8" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="stream" position="1"><type spec="Class"><definition assemblyName="mscorlib" name="Stream" token="200074e" namespace="System.IO"/>
+</type>
+</parameter>
+<parameter name="fileName" position="2"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+<resultType spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPFile" token="200077e" namespace="Microsoft.SharePoint"/>
+</resultType>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="af5c425a-3ba3-4570-889e-b96cea0f7a9d"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at ValidationHelper.RequireNotEmpty(IEnumerable`1&lt;!!0&gt;, String)" method="ValidationHelper.RequireNotEmpty(IEnumerable`1&lt;!!0&gt;, String)" offset="3"><method assemblyName="EdokpayiUtilities" name="RequireNotEmpty" static="true" token="6000062"><declaringType assemblyName="EdokpayiUtilities" name="ValidationHelper" token="2000005" namespace="EdokpayiUtilities"/>
+<genericParameter value="T"/>
+<parameter name="value" position="0"><type spec="Class"><definition assemblyName="mscorlib" name="IEnumerable`1" token="2000036" namespace="System.Collections.Generic"><genericParameter value="T"/>
+</definition>
+<genericTypeArgument spec="GenericMethodParameter" index="0"/>
+</type>
+</parameter>
+<parameter name="argumentName" position="1"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+</method>
+</frame>
+<tag exceptionState="expected"><generatedTestRef idref="5c495cee-4e7b-4798-91d7-14d6111fbf84"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at ValidationHelperTest.RequireNotNull(Object, String)" method="ValidationHelperTest.RequireNotNull(Object, String)" offset="2"><method assemblyName="EdokpayiUtilities.Tests" name="RequireNotNull" token="600004b"><declaringType assemblyName="EdokpayiUtilities.Tests" name="ValidationHelperTest" token="2000005" namespace="EdokpayiUtilities"/>
+<parameter this="true" name="this" position="0"><type spec="Class"><definition assemblyName="EdokpayiUtilities.Tests" name="ValidationHelperTest" token="2000005" namespace="EdokpayiUtilities"/>
+</type>
+</parameter>
+<parameter name="value" position="1"><type spec="Class"><definition assemblyName="mscorlib" name="Object" token="2000002" namespace="System"/>
+</type>
+</parameter>
+<parameter name="argumentName" position="2"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+</method>
+</frame>
+<tag exceptionState="expected"><generatedTestRef idref="876df48b-8cb8-43a1-85a5-7151f3843c00"/>
+</tag>
+</frameNode>
+</frameException>
+<frameException type="System.ArgumentException"><tag exceptionState="unexpected"><generatedTestRef idref="9960872e-1e82-480f-8f01-8f57f13aa01e"/>
+</tag>
+<frameNode><frame value="  at SharePointUtilities.AddEventReceiverToContentType(String, SPContentType, String, SPEventReceiverType, SPEventReceiverSynchronization)" method="SharePointUtilities.AddEventReceiverToContentType(String, SPContentType, String, SPEventReceiverType, SPEventReceiverSynchronization)" offset="7"><method assemblyName="EdokpayiUtilities" name="AddEventReceiverToContentType" static="true" token="6000036"><declaringType assemblyName="EdokpayiUtilities" name="SharePointUtilities" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter name="className" position="0"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+<parameter name="contentType" position="1"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPContentType" token="200069a" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="assemblyName" position="2"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+<parameter name="eventReceiverType" position="3"><type spec="ValueType"><definition assemblyName="Microsoft.SharePoint" valueType="true" name="SPEventReceiverType" token="20006e4" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="eventReceiverSynchronization" position="4"><type spec="ValueType"><definition assemblyName="Microsoft.SharePoint" valueType="true" name="SPEventReceiverSynchronization" token="20006e3" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="9960872e-1e82-480f-8f01-8f57f13aa01e"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at SharePointUtilities.GetIconPath(String)" method="SharePointUtilities.GetIconPath(String)" offset="27"><method assemblyName="EdokpayiUtilities" name="GetIconPath" static="true" token="600003b"><declaringType assemblyName="EdokpayiUtilities" name="SharePointUtilities" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter name="fileExt" position="0"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+<resultType spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</resultType>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="5227909f-8749-44cb-ae0c-e0b5f5c02e4e"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at SharePointUtilities.LoadFromSharePointRoot(String)" method="SharePointUtilities.LoadFromSharePointRoot(String)" offset="7"><method assemblyName="EdokpayiUtilities" name="LoadFromSharePointRoot" static="true" token="600003d"><declaringType assemblyName="EdokpayiUtilities" name="SharePointUtilities" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter name="relativePath" position="0"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+<resultType spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</resultType>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="46c516c6-91d5-47d8-aa9f-d761d1c1c15a"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at Path.GetDirectoryName(String)" method="Path.GetDirectoryName(String)" offset="54"><method assemblyName="mscorlib" name="GetDirectoryName" static="true" token="600462d"><declaringType assemblyName="mscorlib" name="Path" token="200077b" namespace="System.IO"/>
+<parameter name="path" position="0"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+<resultType spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</resultType>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="63a963f3-b105-4ab6-a668-3f2891482fd1"/>
+</tag>
+<frameNode><frame value="  at SharePointUtilities.LoadFromSharePointRoot(String)" method="SharePointUtilities.LoadFromSharePointRoot(String)" offset="14"><method assemblyName="EdokpayiUtilities" name="LoadFromSharePointRoot" static="true" token="600003d"><declaringType assemblyName="EdokpayiUtilities" name="SharePointUtilities" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter name="relativePath" position="0"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+<resultType spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</resultType>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="63a963f3-b105-4ab6-a668-3f2891482fd1"/>
+</tag>
+</frameNode>
+</frameNode>
+<frameNode><frame value="  at ValidationHelperTest.RequireNotEmpty(IEnumerable`1&lt;!!0&gt;, String)" method="ValidationHelperTest.RequireNotEmpty(IEnumerable`1&lt;!!0&gt;, String)" offset="2"><method assemblyName="EdokpayiUtilities.Tests" name="RequireNotEmpty" token="600004a"><declaringType assemblyName="EdokpayiUtilities.Tests" name="ValidationHelperTest" token="2000005" namespace="EdokpayiUtilities"/>
+<genericParameter value="T"/>
+<parameter this="true" name="this" position="0"><type spec="Class"><definition assemblyName="EdokpayiUtilities.Tests" name="ValidationHelperTest" token="2000005" namespace="EdokpayiUtilities"/>
+</type>
+</parameter>
+<parameter name="value" position="1"><type spec="Class"><definition assemblyName="mscorlib" name="IEnumerable`1" token="2000036" namespace="System.Collections.Generic"><genericParameter value="T"/>
+</definition>
+<genericTypeArgument spec="GenericMethodParameter" index="0"/>
+</type>
+</parameter>
+<parameter name="argumentName" position="2"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+</method>
+</frame>
+<tag exceptionState="expected"><generatedTestRef idref="87f8f904-122b-4d9f-a72e-066ae177cbbc"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at ValidationHelperTest.RequireNotNullOrEmpty(String, String)" method="ValidationHelperTest.RequireNotNullOrEmpty(String, String)" offset="2"><method assemblyName="EdokpayiUtilities.Tests" name="RequireNotNullOrEmpty" token="600004c"><declaringType assemblyName="EdokpayiUtilities.Tests" name="ValidationHelperTest" token="2000005" namespace="EdokpayiUtilities"/>
+<parameter this="true" name="this" position="0"><type spec="Class"><definition assemblyName="EdokpayiUtilities.Tests" name="ValidationHelperTest" token="2000005" namespace="EdokpayiUtilities"/>
+</type>
+</parameter>
+<parameter name="value" position="1"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+<parameter name="argumentName" position="2"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+</method>
+</frame>
+<tag exceptionState="expected"><generatedTestRef idref="46f6e4c8-f4c3-4262-9cc0-756c92bcf92a"/>
+</tag>
+</frameNode>
+</frameException>
+<frameException type="System.NullReferenceException"><tag exceptionState="unexpected"><generatedTestRef idref="db99929e-c14f-4c0f-a081-c1334a2dea08"/>
+</tag>
+<frameNode><frame value="  at SharePointUtilities.CopyStreams(Stream, Stream)" method="SharePointUtilities.CopyStreams(Stream, Stream)" offset="18"><method assemblyName="EdokpayiUtilities" name="CopyStreams" static="true" token="600001a"><declaringType assemblyName="EdokpayiUtilities" name="SharePointUtilities" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter name="source" position="0"><type spec="Class"><definition assemblyName="mscorlib" name="Stream" token="200074e" namespace="System.IO"/>
+</type>
+</parameter>
+<parameter name="destination" position="1"><type spec="Class"><definition assemblyName="mscorlib" name="Stream" token="200074e" namespace="System.IO"/>
+</type>
+</parameter>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="db99929e-c14f-4c0f-a081-c1334a2dea08"/>
+<generatedTestRef idref="f22ef928-21f9-4833-907a-08386b1bcbb9"/>
+<generatedTestRef idref="5049f2e9-7002-4966-b4bb-6370c39e6e22"/>
+<generatedTestRef idref="9bfcd0f8-9d20-451c-abb9-45197ca15ae4"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at SharePointUtilities.EnableContentApproval(SPList)" method="SharePointUtilities.EnableContentApproval(SPList)" offset="3"><method assemblyName="EdokpayiUtilities" name="EnableContentApproval" static="true" token="6000017"><declaringType assemblyName="EdokpayiUtilities" name="SharePointUtilities" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter name="list" position="0"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPList" token="200023c" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="d9f1a712-18f3-48fc-8575-3b3eac07e1a0"/>
+<generatedTestRef idref="e1ebe246-1196-4703-a22a-fa8ca9fd38f7"/>
+</tag>
+<frameNode><frame value="  at SharePointUtilities.DefaultContentApproval(SPWeb, SPList, SPList, SPList, String)" method="SharePointUtilities.DefaultContentApproval(SPWeb, SPList, SPList, SPList, String)" offset="2"><method assemblyName="EdokpayiUtilities" name="DefaultContentApproval" static="true" token="6000018"><declaringType assemblyName="EdokpayiUtilities" name="SharePointUtilities" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter name="web" position="0"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPWeb" token="2000951" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="list" position="1"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPList" token="200023c" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="tasks" position="2"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPList" token="200023c" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="workflowHistory" position="3"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPList" token="200023c" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="workflowName" position="4"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="d9f1a712-18f3-48fc-8575-3b3eac07e1a0"/>
+</tag>
+</frameNode>
+</frameNode>
+<frameNode><frame value="  at SharePointUtilities.DeleteContentType(SPWeb, String)" method="SharePointUtilities.DeleteContentType(SPWeb, String)" offset="2"><method assemblyName="EdokpayiUtilities" name="DeleteContentType" static="true" token="6000016"><declaringType assemblyName="EdokpayiUtilities" name="SharePointUtilities" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter name="web" position="0"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPWeb" token="2000951" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<parameter name="contentTypeName" position="1"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="0e6e4483-e47b-4f85-b896-e5187aad8a19"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at SharePointUtilities.GetWebAppRelativePath(SPWeb)" method="SharePointUtilities.GetWebAppRelativePath(SPWeb)" offset="2"><method assemblyName="EdokpayiUtilities" name="GetWebAppRelativePath" static="true" token="6000002"><declaringType assemblyName="EdokpayiUtilities" name="SharePointUtilities" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter name="topLevelSite" position="0"><type spec="Class"><definition assemblyName="Microsoft.SharePoint" name="SPWeb" token="2000951" namespace="Microsoft.SharePoint"/>
+</type>
+</parameter>
+<resultType spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</resultType>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="bae8eaa2-599b-4bf2-ae8c-b34816a17fbf"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at SharePointUtilities.SetDefaultTermValue(TermSet, TaxonomyField, String)" method="SharePointUtilities.SetDefaultTermValue(TermSet, TaxonomyField, String)" offset="2"><method assemblyName="EdokpayiUtilities" name="SetDefaultTermValue" static="true" token="6000038"><declaringType assemblyName="EdokpayiUtilities" name="SharePointUtilities" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter name="termSet" position="0"><type spec="Class"><definition assemblyName="Microsoft.SharePoint.Taxonomy" name="TermSet" token="2000149" namespace="Microsoft.SharePoint.Taxonomy"/>
+</type>
+</parameter>
+<parameter name="field" position="1"><type spec="Class"><definition assemblyName="Microsoft.SharePoint.Taxonomy" name="TaxonomyField" token="200012e" namespace="Microsoft.SharePoint.Taxonomy"/>
+</type>
+</parameter>
+<parameter name="defaultTermValue" position="2"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="87eb573a-4444-47a3-9e3e-1f8c2c92da8d"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at SharePointUtilities.SetDefaultTermValue(Group, TaxonomyField, String)" method="SharePointUtilities.SetDefaultTermValue(Group, TaxonomyField, String)" offset="2"><method assemblyName="EdokpayiUtilities" name="SetDefaultTermValue" static="true" token="6000039"><declaringType assemblyName="EdokpayiUtilities" name="SharePointUtilities" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter name="group" position="0"><type spec="Class"><definition assemblyName="Microsoft.SharePoint.Taxonomy" name="Group" token="2000138" namespace="Microsoft.SharePoint.Taxonomy"/>
+</type>
+</parameter>
+<parameter name="field" position="1"><type spec="Class"><definition assemblyName="Microsoft.SharePoint.Taxonomy" name="TaxonomyField" token="200012e" namespace="Microsoft.SharePoint.Taxonomy"/>
+</type>
+</parameter>
+<parameter name="defaultTermText" position="2"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="12f75d04-5283-4a9c-89be-db6d1f696ba7"/>
+</tag>
+</frameNode>
+</frameException>
+<frameException type="System.NotSupportedException"><tag exceptionState="unexpected"><generatedTestRef idref="5d61b29c-9c93-4954-bb80-b880da74a03c"/>
+</tag>
+<frameNode><frame value="  at MemoryStream.EnsureWriteable()" method="MemoryStream.EnsureWriteable()" offset="13"><method assemblyName="mscorlib" name="EnsureWriteable" token="600462a"><declaringType assemblyName="mscorlib" name="MemoryStream" token="200077a" namespace="System.IO"/>
+<parameter this="true" name="this" position="0"><type spec="Class"><definition assemblyName="mscorlib" name="MemoryStream" token="200077a" namespace="System.IO"/>
+</type>
+</parameter>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="5d61b29c-9c93-4954-bb80-b880da74a03c"/>
+</tag>
+<frameNode><frame value="  at MemoryStream.Write(Byte[], Int32, Int32)" method="MemoryStream.Write(Byte[], Int32, Int32)" offset="112"><method assemblyName="mscorlib" name="Write" token="6004626"><declaringType assemblyName="mscorlib" name="MemoryStream" token="200077a" namespace="System.IO"/>
+<parameter this="true" name="this" position="0"><type spec="Class"><definition assemblyName="mscorlib" name="MemoryStream" token="200077a" namespace="System.IO"/>
+</type>
+</parameter>
+<parameter name="buffer" position="1"><type spec="SzArray"><elementType spec="ValueType"><definition assemblyName="mscorlib" valueType="true" name="Byte" token="20000a0" namespace="System"/>
+</elementType>
+</type>
+</parameter>
+<parameter name="offset" position="2"><type spec="ValueType"><definition assemblyName="mscorlib" valueType="true" name="Int32" token="20000f3" namespace="System"/>
+</type>
+</parameter>
+<parameter name="count" position="3"><type spec="ValueType"><definition assemblyName="mscorlib" valueType="true" name="Int32" token="20000f3" namespace="System"/>
+</type>
+</parameter>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="5d61b29c-9c93-4954-bb80-b880da74a03c"/>
+</tag>
+<frameNode><frame value="  at SharePointUtilities.CopyStreams(Stream, Stream)" method="SharePointUtilities.CopyStreams(Stream, Stream)" offset="33"><method assemblyName="EdokpayiUtilities" name="CopyStreams" static="true" token="600001a"><declaringType assemblyName="EdokpayiUtilities" name="SharePointUtilities" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter name="source" position="0"><type spec="Class"><definition assemblyName="mscorlib" name="Stream" token="200074e" namespace="System.IO"/>
+</type>
+</parameter>
+<parameter name="destination" position="1"><type spec="Class"><definition assemblyName="mscorlib" name="Stream" token="200074e" namespace="System.IO"/>
+</type>
+</parameter>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="5d61b29c-9c93-4954-bb80-b880da74a03c"/>
+</tag>
+</frameNode>
+</frameNode>
+</frameNode>
+<frameNode><frame value="  at __Error.MemoryStreamNotExpandable()" method="__Error.MemoryStreamNotExpandable()" offset="15"><method assemblyName="mscorlib" name="MemoryStreamNotExpandable" static="true" token="60043b8"><declaringType assemblyName="mscorlib" name="__Error" token="2000754" namespace="System.IO"/>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="952a94e6-5365-4e0c-a3b6-fe00a9817d15"/>
+</tag>
+<frameNode><frame value="  at MemoryStream.set_Capacity(Int32)" method="MemoryStream.set_Capacity(Int32)" offset="61"><method assemblyName="mscorlib" name="set_Capacity" token="600461b"><declaringType assemblyName="mscorlib" name="MemoryStream" token="200077a" namespace="System.IO"/>
+<parameter this="true" name="this" position="0"><type spec="Class"><definition assemblyName="mscorlib" name="MemoryStream" token="200077a" namespace="System.IO"/>
+</type>
+</parameter>
+<parameter name="value" position="1"><type spec="ValueType"><definition assemblyName="mscorlib" valueType="true" name="Int32" token="20000f3" namespace="System"/>
+</type>
+</parameter>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="952a94e6-5365-4e0c-a3b6-fe00a9817d15"/>
+</tag>
+<frameNode><frame value="  at MemoryStream.EnsureCapacity(Int32)" method="MemoryStream.EnsureCapacity(Int32)" offset="67"><method assemblyName="mscorlib" name="EnsureCapacity" token="600462b"><declaringType assemblyName="mscorlib" name="MemoryStream" token="200077a" namespace="System.IO"/>
+<parameter this="true" name="this" position="0"><type spec="Class"><definition assemblyName="mscorlib" name="MemoryStream" token="200077a" namespace="System.IO"/>
+</type>
+</parameter>
+<parameter name="value" position="1"><type spec="ValueType"><definition assemblyName="mscorlib" valueType="true" name="Int32" token="20000f3" namespace="System"/>
+</type>
+</parameter>
+<resultType spec="ValueType"><definition assemblyName="mscorlib" valueType="true" name="Boolean" token="200009e" namespace="System"/>
+</resultType>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="952a94e6-5365-4e0c-a3b6-fe00a9817d15"/>
+</tag>
+<frameNode><frame value="  at MemoryStream.Write(Byte[], Int32, Int32)" method="MemoryStream.Write(Byte[], Int32, Int32)" offset="181"><method assemblyName="mscorlib" name="Write" token="6004626"><declaringType assemblyName="mscorlib" name="MemoryStream" token="200077a" namespace="System.IO"/>
+<parameter this="true" name="this" position="0"><type spec="Class"><definition assemblyName="mscorlib" name="MemoryStream" token="200077a" namespace="System.IO"/>
+</type>
+</parameter>
+<parameter name="buffer" position="1"><type spec="SzArray"><elementType spec="ValueType"><definition assemblyName="mscorlib" valueType="true" name="Byte" token="20000a0" namespace="System"/>
+</elementType>
+</type>
+</parameter>
+<parameter name="offset" position="2"><type spec="ValueType"><definition assemblyName="mscorlib" valueType="true" name="Int32" token="20000f3" namespace="System"/>
+</type>
+</parameter>
+<parameter name="count" position="3"><type spec="ValueType"><definition assemblyName="mscorlib" valueType="true" name="Int32" token="20000f3" namespace="System"/>
+</type>
+</parameter>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="952a94e6-5365-4e0c-a3b6-fe00a9817d15"/>
+</tag>
+<frameNode><frame value="  at SharePointUtilities.CopyStreams(Stream, Stream)" method="SharePointUtilities.CopyStreams(Stream, Stream)" offset="33"><method assemblyName="EdokpayiUtilities" name="CopyStreams" static="true" token="600001a"><declaringType assemblyName="EdokpayiUtilities" name="SharePointUtilities" token="2000002" namespace="EdokpayiUtilities"/>
+<parameter name="source" position="0"><type spec="Class"><definition assemblyName="mscorlib" name="Stream" token="200074e" namespace="System.IO"/>
+</type>
+</parameter>
+<parameter name="destination" position="1"><type spec="Class"><definition assemblyName="mscorlib" name="Stream" token="200074e" namespace="System.IO"/>
+</type>
+</parameter>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="952a94e6-5365-4e0c-a3b6-fe00a9817d15"/>
+</tag>
+</frameNode>
+</frameNode>
+</frameNode>
+</frameNode>
+</frameNode>
+</frameException>
+<frameException type="System.Exception"><tag exceptionState="unexpected"><generatedTestRef idref="2a8c4821-d6a5-4c93-a741-fdc9177a60ac"/>
+</tag>
+<frameNode><frame value="  at ValidationHelperTest.Require01(!!0, Boolean, String)" method="ValidationHelperTest.Require01(!!0, Boolean, String)" offset="3"><method assemblyName="EdokpayiUtilities.Tests" name="Require01" token="6000049"><declaringType assemblyName="EdokpayiUtilities.Tests" name="ValidationHelperTest" token="2000005" namespace="EdokpayiUtilities"/>
+<genericParameter value="T"/>
+<parameter this="true" name="this" position="0"><type spec="Class"><definition assemblyName="EdokpayiUtilities.Tests" name="ValidationHelperTest" token="2000005" namespace="EdokpayiUtilities"/>
+</type>
+</parameter>
+<parameter name="value" position="1"><type spec="GenericMethodParameter" index="0"/>
+</parameter>
+<parameter name="condtion" position="2"><type spec="ValueType"><definition assemblyName="mscorlib" valueType="true" name="Boolean" token="200009e" namespace="System"/>
+</type>
+</parameter>
+<parameter name="argumentName" position="3"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="200004c" namespace="System"/>
+</type>
+</parameter>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="2a8c4821-d6a5-4c93-a741-fdc9177a60ac"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at ValidationHelperTest.Require(!!0, Boolean)" method="ValidationHelperTest.Require(!!0, Boolean)" offset="2"><method assemblyName="EdokpayiUtilities.Tests" name="Require" token="6000048"><declaringType assemblyName="EdokpayiUtilities.Tests" name="ValidationHelperTest" token="2000005" namespace="EdokpayiUtilities"/>
+<genericParameter value="T"/>
+<genericParameter value="E"/>
+<parameter this="true" name="this" position="0"><type spec="Class"><definition assemblyName="EdokpayiUtilities.Tests" name="ValidationHelperTest" token="2000005" namespace="EdokpayiUtilities"/>
+</type>
+</parameter>
+<parameter name="value" position="1"><type spec="GenericMethodParameter" index="0"/>
+</parameter>
+<parameter name="condition" position="2"><type spec="ValueType"><definition assemblyName="mscorlib" valueType="true" name="Boolean" token="200009e" namespace="System"/>
+</type>
+</parameter>
+</method>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="c6d48fd5-f0e1-4549-a43e-639ca8b53f82"/>
+</tag>
+</frameNode>
+</frameException>
+</frameTree>

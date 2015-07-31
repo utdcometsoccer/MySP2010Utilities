@@ -1,0 +1,11 @@
+﻿<documents created="2012-12-16 03:48:11Z"><document src="(no sources available for some parts of EdokpayiUtilities, EdokpayiUtilities.Tests, mscorlib.Explorables)" missing="true"><method name="CopyStreams" type="EdokpayiUtilities.SharePointUtilities" token="600001a" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="5" total="6" coveredRatio="0.83333333333333337"/>
+</method>
+<method name="CopyStreams" type="EdokpayiUtilities.SharePointUtilitiesTest" token="6000015" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="2" total="2" coveredRatio="1"/>
+</method>
+<method name="Create" type="System.IO.MemoryStreamFactory" token="6000002" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="0" total="2" coveredRatio="0"/>
+</method>
+</document>
+</documents>

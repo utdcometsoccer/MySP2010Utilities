@@ -1,0 +1,11 @@
+﻿<documents created="2012-12-16 03:48:12Z"><document src="(no sources available for some parts of EdokpayiUtilities.Tests, EdokpayiUtilities)" missing="true"><method name="CreateMangedMetadataSiteColumn" type="EdokpayiUtilities.SharePointUtilitiesTest" token="600001b" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="CreateMangedMetadataSiteColumn" type="EdokpayiUtilities.SharePointUtilities" token="6000025" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="1" total="28" coveredRatio="0.035714285714285712"/>
+</method>
+<method name="RequireNotNull" type="EdokpayiUtilities.ValidationHelper" token="6000061" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="userortestcode" unit="block" covered="3" total="4" coveredRatio="0.75"/>
+</method>
+</document>
+</documents>

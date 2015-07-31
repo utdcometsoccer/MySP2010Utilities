@@ -1,0 +1,16 @@
+C:\Development\USOC.Default.Master\EdokpayiUtilities\bin\Debug\EdokpayiUtilities.dll
+C:\Development\USOC.Default.Master\EdokpayiUtilities\bin\Debug\EdokpayiUtilities.pdb
+C:\Development\USOC.Default.Master\EdokpayiUtilities\obj\Debug\EdokpayiUtilities.dll
+C:\Development\USOC.Default.Master\EdokpayiUtilities\obj\Debug\EdokpayiUtilities.pdb
+C:\Development\USOC.Default.Master\EdokpayiUtilities\obj\Debug\EdokpayiUtilities.csprojResolveAssemblyReference.cache
+C:\Development\USOC.Default.Master\EdokpayiUtilities\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Development\USOC.Default.Master\EdokpayiUtilities\bin\Debug\Microsoft.Practices.SharePoint.Common.Configuration.ConfigurationProxy.dll
+C:\Development\USOC.Default.Master\EdokpayiUtilities\bin\Debug\Microsoft.Practices.SharePoint.Common.dll
+C:\Development\USOC.Default.Master\EdokpayiUtilities\bin\Debug\Microsoft.Practices.SharePoint.Common.LoggerProxy.dll
+C:\Development\USOC.Default.Master\EdokpayiUtilities\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Development\USOC.Default.Master\EdokpayiUtilities\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Development\EdokpayiUtilities\obj\Debug\EdokpayiUtilities.csprojResolveAssemblyReference.cache
+D:\Development\EdokpayiUtilities\obj\Debug\EdokpayiUtilities.dll
+D:\Development\EdokpayiUtilities\obj\Debug\EdokpayiUtilities.pdb
+D:\Development\EdokpayiUtilities\bin\Debug\EdokpayiUtilities.dll
+D:\Development\EdokpayiUtilities\bin\Debug\EdokpayiUtilities.pdb

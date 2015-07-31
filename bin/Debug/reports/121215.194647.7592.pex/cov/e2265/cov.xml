@@ -1,0 +1,17 @@
+﻿<documents created="2012-12-16 03:49:06Z"><document src="(no sources available for some parts of EdokpayiUtilities.Tests, EdokpayiUtilities, Microsoft.SharePoint.Explorables, mscorlib.Explorables)" missing="true"><method name="TryGetField" type="EdokpayiUtilities.SharePointUtilitiesTest" token="600003c" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="TryGetField" type="EdokpayiUtilities.SharePointUtilities" token="6000029" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="1" total="7" coveredRatio="0.14285714285714285"/>
+</method>
+<method name="RequireNotNull" type="EdokpayiUtilities.ValidationHelper" token="6000061" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="userortestcode" unit="block" covered="3" total="4" coveredRatio="0.75"/>
+</method>
+<method name="Create" type="Microsoft.SharePoint.SPFieldCollectionFactory" token="6000010" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="2" total="4" coveredRatio="0.5"/>
+</method>
+<method name="Create" type="System.Runtime.Serialization.SerializationInfoFactory" token="6000004" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="0" total="2" coveredRatio="0"/>
+</method>
+</document>
+</documents>

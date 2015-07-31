@@ -1,0 +1,8 @@
+﻿<documents created="2012-12-16 03:47:07Z"><document src="(no sources available for some parts of EdokpayiUtilities.Tests, EdokpayiUtilities)" missing="true"><method name="Constructor02" type="EdokpayiUtilities.PostBackEventMenuItemTest" token="6000045" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="2" total="2" coveredRatio="1"/>
+</method>
+<method name=".ctor" type="EdokpayiUtilities.PostBackEventMenuItem" token="600005b" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="2" total="2" coveredRatio="1"/>
+</method>
+</document>
+</documents>

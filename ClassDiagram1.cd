@@ -1,0 +1,295 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MySP2010Utilities.ListOperations" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEIAAQAAAAAAAIAACAAAAAAAAAAAIAAgAAAAA=</HashCode>
+      <FileName>ListOperations.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MySP2010Utilities.LoggingService" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAgAAAAAAAAAAAACAAAAAgAAAQAAAAAAQAAAAAAA=</HashCode>
+      <FileName>LoggingService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MySP2010Utilities.ModifyContentType" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEEEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ModifyContentType.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MySP2010Utilities.ModifyView" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAIAAAAA=</HashCode>
+      <FileName>ModifyView.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MySP2010Utilities.NavigationCustomization" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NavigationCustomization.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MySP2010Utilities.PostBackEventMenuItem" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAIAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>PostBackEventMenuItem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MySP2010Utilities.SharePointUtilities" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAgMCAIQdUEMQABCM6xBCEqAAATKAAQMpBEoJgAAA=</HashCode>
+      <FileName>SharePointUtilities.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MySP2010Utilities.SiteColumnOperations" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAEAAAAIAAAA=</HashCode>
+      <FileName>SiteColumnOperations.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MySP2010Utilities.ValidationHelper" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAACAAIAABAAAAAAAAA=</HashCode>
+      <FileName>ValidationHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MySP2010Utilities.WebPartOperations" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAABAAAAAAAAAAAAAABAABAAAA=</HashCode>
+      <FileName>WebPartOperations.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MySP2010Utilities.WorkflowOperations" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAQAAAAAQAAAgAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>WorkflowOperations.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MySP2010Utilities.XMLSPProvisioningProvider" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAIAQAAAAQIAAAAAAAACAAEggAAAAAEADAAA=</HashCode>
+      <FileName>XMLSPProvisioningProvider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MySP2010Utilities.SPFileOperations" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAAQCAAAAAAAAAAAAA=</HashCode>
+      <FileName>SPFileOperations.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MySP2010Utilities.AddSandboxedSolutions" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AddSandboxedSolutions.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MySP2010Utilities.TimerJobOperations" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TimerJobOperations.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MySP2010Utilities.SPUserOperations" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>SPUserOperations.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MySP2010Utilities.ManagedMetaDataOperations" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAABAAAAAAAEAAAAAA=</HashCode>
+      <FileName>ManagedMetaDataOperations.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MySP2010Utilities.LogUtility" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LogUtility.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MySP2010Utilities.FieldOperations" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FieldOperations.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MySP2010Utilities.FeatureActivator" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FeatureActivator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MySP2010Utilities.DocIconOperations" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAEAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>DocIconOperations.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MySP2010Utilities.ContentTypeOperations" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAABAEAAAAAAAgAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ContentTypeOperations.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="MySP2010Utilities.IAddSandboxedSolutions" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IAddSandboxedSolutions.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MySP2010Utilities.IWorkflowOperations" Collapsed="true">
+    <Position X="2.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAQAAAAAQAAAgAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>IWorkflowOperations.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MySP2010Utilities.IContentTypeOperations" Collapsed="true">
+    <Position X="2.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAABAEAAAAAAAgAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IContentTypeOperations.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MySP2010Utilities.IFeatureActivator" Collapsed="true">
+    <Position X="5.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IFeatureActivation.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MySP2010Utilities.IListOperations" Collapsed="true">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEIAAQAAAAAAAIAACAAAAAAAAAAAIAAgAAAAA=</HashCode>
+      <FileName>IListOperations.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MySP2010Utilities.IManagedMetaDataOperations" Collapsed="true">
+    <Position X="4" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAABAAAAAAAEAAAAAA=</HashCode>
+      <FileName>IManagedMetaDataOperations.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MySP2010Utilities.IModifyContentType" Collapsed="true">
+    <Position X="5.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEEEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IModifyContentType.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MySP2010Utilities.IModifyView" Collapsed="true">
+    <Position X="7.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAIAAAAA=</HashCode>
+      <FileName>IModifyView.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MySP2010Utilities.INavigationCustomization" Collapsed="true">
+    <Position X="0.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>INavigationCustomization.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MySP2010Utilities.ISiteColumnOperations" Collapsed="true">
+    <Position X="2.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAEAAAAIAAAA=</HashCode>
+      <FileName>ISiteColumnOperations.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MySP2010Utilities.IWebPartOperations" Collapsed="true">
+    <Position X="0.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAABAAAAAAAAAAAAAABAABAAAA=</HashCode>
+      <FileName>IWebPartOperations.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MySP2010Utilities.ISPFileOperations" Collapsed="true">
+    <Position X="4" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAIAAAQCAAAAAAAAAAAAA=</HashCode>
+      <FileName>ISPFileOperations.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MySP2010Utilities.IFieldOperations" Collapsed="true">
+    <Position X="7.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IFieldOperations.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MySP2010Utilities.ILogUtility" Collapsed="true">
+    <Position X="2.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ILogUtility.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MySP2010Utilities.IDocIconOperations" Collapsed="true">
+    <Position X="4" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAEAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>IDocIconOperations.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MySP2010Utilities.ITimerJobOperations" Collapsed="true">
+    <Position X="7.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ITimerJobOperations.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MySP2010Utilities.ISPUserOperations" Collapsed="true">
+    <Position X="5.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>ISPUserOperations.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

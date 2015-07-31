@@ -1,0 +1,5 @@
+Z:\E\MySP2010Utilities\bin\Debug\MySP2010Utilities.dll
+Z:\E\MySP2010Utilities\bin\Debug\MySP2010Utilities.pdb
+Z:\E\MySP2010Utilities\obj\Debug\MySP2010Utilities.csprojResolveAssemblyReference.cache
+Z:\E\MySP2010Utilities\obj\Debug\MySP2010Utilities.dll
+Z:\E\MySP2010Utilities\obj\Debug\MySP2010Utilities.pdb

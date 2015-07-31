@@ -1,0 +1,419 @@
+﻿<documents created="2012-12-16 03:49:06Z"><document src="(no sources available for some parts of EdokpayiUtilities.Tests, EdokpayiUtilities, Microsoft.SharePoint.Explorables, mscorlib.Explorables, System.Xml.Linq)" missing="true"><method name="ActivateFeatureIfNecessary" type="EdokpayiUtilities.SharePointUtilitiesTest" token="6000001" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="ActivateFeatureIfNecessary" type="EdokpayiUtilities.SharePointUtilities" token="6000021" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="1" total="10" coveredRatio="0.1"/>
+</method>
+<method name="RequireNotNull" type="EdokpayiUtilities.ValidationHelper" token="6000061" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="userortestcode" unit="block" covered="3" total="4" coveredRatio="0.75"/>
+</method>
+<method name="Create" type="Microsoft.SharePoint.SPSiteFactory" token="6000002" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="9" coveredRatio="0.1111111111111111"/>
+</method>
+<method name="ActivateFeatureIfNecessary01" type="EdokpayiUtilities.SharePointUtilitiesTest" token="6000002" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="ActivateFeatureIfNecessary" type="EdokpayiUtilities.SharePointUtilities" token="6000022" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="1" total="10" coveredRatio="0.1"/>
+</method>
+<method name="ActivateFeatureIfNecessary02" type="EdokpayiUtilities.SharePointUtilitiesTest" token="6000003" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="ActivateFeatureIfNecessary" type="EdokpayiUtilities.SharePointUtilities" token="6000026" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="1" total="12" coveredRatio="0.083333333333333329"/>
+</method>
+<method name="ActivateFeatureIfNecessary03" type="EdokpayiUtilities.SharePointUtilitiesTest" token="6000004" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="ActivateFeatureIfNecessary" type="EdokpayiUtilities.SharePointUtilities" token="6000027" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="1" total="12" coveredRatio="0.083333333333333329"/>
+</method>
+<method name="AddEventReceiverToContentType" type="EdokpayiUtilities.SharePointUtilitiesTest" token="6000005" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="AddEventReceiverToContentType" type="EdokpayiUtilities.SharePointUtilities" token="6000036" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="2" total="13" coveredRatio="0.15384615384615385"/>
+</method>
+<method name="RequireNotNullOrEmpty" type="EdokpayiUtilities.ValidationHelper" token="6000060" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="userortestcode" unit="block" covered="4" total="4" coveredRatio="1"/>
+</method>
+<method name=".ctor" type="EdokpayiUtilities.SharePointUtilities+&lt;&gt;c__DisplayClasse" token="6000069" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="2" total="2" coveredRatio="1"/>
+</method>
+<method name="AddFieldToContentType" type="EdokpayiUtilities.SharePointUtilitiesTest" token="6000006" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="AddFieldToContentType" type="EdokpayiUtilities.SharePointUtilities" token="600002a" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="2" total="20" coveredRatio="0.1"/>
+</method>
+<method name="AddFieldToContentType01" type="EdokpayiUtilities.SharePointUtilitiesTest" token="6000007" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="AddFieldToContentType" type="EdokpayiUtilities.SharePointUtilities" token="600002b" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="1" total="30" coveredRatio="0.033333333333333333"/>
+</method>
+<method name="AddFieldToList" type="EdokpayiUtilities.SharePointUtilitiesTest" token="6000008" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="AddFieldToList" type="EdokpayiUtilities.SharePointUtilities" token="600002c" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="1" total="11" coveredRatio="0.090909090909090912"/>
+</method>
+<method name="AddFieldToList01" type="EdokpayiUtilities.SharePointUtilitiesTest" token="6000009" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="AddFieldToList" type="EdokpayiUtilities.SharePointUtilities" token="600002d" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="1" total="21" coveredRatio="0.047619047619047616"/>
+</method>
+<method name="AddListToPage" type="EdokpayiUtilities.SharePointUtilitiesTest" token="600000a" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="AddListToPage" type="EdokpayiUtilities.SharePointUtilities" token="6000009" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="3" total="20" coveredRatio="0.15"/>
+</method>
+<method name="AddListToPage01" type="EdokpayiUtilities.SharePointUtilitiesTest" token="600000b" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="AddListToPage" type="EdokpayiUtilities.SharePointUtilities" token="600000a" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="1" total="21" coveredRatio="0.047619047619047616"/>
+</method>
+<method name="AddPageToNavigation" type="EdokpayiUtilities.SharePointUtilitiesTest" token="600000c" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="AddPageToNavigation" type="EdokpayiUtilities.SharePointUtilities" token="600001d" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="1" total="23" coveredRatio="0.043478260869565216"/>
+</method>
+<method name="AddSandboxedSolution" type="EdokpayiUtilities.SharePointUtilitiesTest" token="600000d" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="AddSandboxedSolution" type="EdokpayiUtilities.SharePointUtilities" token="6000023" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="1" total="24" coveredRatio="0.041666666666666664"/>
+</method>
+<method name="AddSandboxedSolution01" type="EdokpayiUtilities.SharePointUtilitiesTest" token="600000e" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="AddSandboxedSolution" type="EdokpayiUtilities.SharePointUtilities" token="6000024" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="1" total="10" coveredRatio="0.1"/>
+</method>
+<method name="AddWebPart" type="EdokpayiUtilities.SharePointUtilitiesTest" token="600000f" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="AddWebPart" type="EdokpayiUtilities.SharePointUtilities" token="600001e" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="1" total="9" coveredRatio="0.1111111111111111"/>
+</method>
+<method name="AddWorkflow" type="EdokpayiUtilities.SharePointUtilitiesTest" token="6000010" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="AddWorkflow" type="EdokpayiUtilities.SharePointUtilities" token="6000013" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="1" total="15" coveredRatio="0.066666666666666666"/>
+</method>
+<method name="AddWorkflow01" type="EdokpayiUtilities.SharePointUtilitiesTest" token="6000011" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="AddWorkflow" type="EdokpayiUtilities.SharePointUtilities" token="6000035" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="1" total="23" coveredRatio="0.043478260869565216"/>
+</method>
+<method name="ChangeTitleDisplayName" type="EdokpayiUtilities.SharePointUtilitiesTest" token="6000012" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="ChangeTitleDisplayName" type="EdokpayiUtilities.SharePointUtilities" token="600001f" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="1" total="9" coveredRatio="0.1111111111111111"/>
+</method>
+<method name="ChangeTitleDisplayName01" type="EdokpayiUtilities.SharePointUtilitiesTest" token="6000013" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="ChangeTitleDisplayName" type="EdokpayiUtilities.SharePointUtilities" token="6000020" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="1" total="14" coveredRatio="0.071428571428571425"/>
+</method>
+<method name="ConnectListViewWebParts" type="EdokpayiUtilities.SharePointUtilitiesTest" token="6000014" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="ConnectListViewWebParts" type="EdokpayiUtilities.SharePointUtilities" token="600003f" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="1" total="30" coveredRatio="0.033333333333333333"/>
+</method>
+<method name="CopyStreams" type="EdokpayiUtilities.SharePointUtilities" token="600001a" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="5" total="6" coveredRatio="0.83333333333333337"/>
+</method>
+<method name="CopyStreams" type="EdokpayiUtilities.SharePointUtilitiesTest" token="6000015" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="2" total="2" coveredRatio="1"/>
+</method>
+<method name="Create" type="System.IO.MemoryStreamFactory" token="6000002" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="0" total="2" coveredRatio="0"/>
+</method>
+<method name="CreateChoiceSiteColumn" type="EdokpayiUtilities.SharePointUtilitiesTest" token="6000016" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="CreateChoiceSiteColumn" type="EdokpayiUtilities.SharePointUtilities" token="6000014" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="1" total="21" coveredRatio="0.047619047619047616"/>
+</method>
+<method name="CreateContentEditorWebPart" type="EdokpayiUtilities.SharePointUtilitiesTest" token="6000017" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="CreateContentEditorWebPart" type="EdokpayiUtilities.SharePointUtilities" token="600000b" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="1" total="19" coveredRatio="0.052631578947368418"/>
+</method>
+<method name="CreateContentType" type="EdokpayiUtilities.SharePointUtilitiesTest" token="6000018" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="CreateContentType" type="EdokpayiUtilities.SharePointUtilities" token="600000e" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="1" total="27" coveredRatio="0.037037037037037035"/>
+</method>
+<method name="CreateList" type="EdokpayiUtilities.SharePointUtilitiesTest" token="6000019" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="CreateList" type="EdokpayiUtilities.SharePointUtilities" token="6000008" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="3" total="18" coveredRatio="0.16666666666666666"/>
+</method>
+<method name="CreateLookupSiteColumn" type="EdokpayiUtilities.SharePointUtilitiesTest" token="600001a" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="CreateLookupSiteColumn" type="EdokpayiUtilities.SharePointUtilities" token="600000d" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="1" total="15" coveredRatio="0.066666666666666666"/>
+</method>
+<method name="CreateMangedMetadataSiteColumn" type="EdokpayiUtilities.SharePointUtilitiesTest" token="600001b" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="CreateMangedMetadataSiteColumn" type="EdokpayiUtilities.SharePointUtilities" token="6000025" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="1" total="28" coveredRatio="0.035714285714285712"/>
+</method>
+<method name="CreatePage" type="EdokpayiUtilities.SharePointUtilitiesTest" token="600001c" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="CreatePage" type="EdokpayiUtilities.SharePointUtilities" token="600003e" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="1" total="9" coveredRatio="0.1111111111111111"/>
+</method>
+<method name="CreateSiteColumn" type="EdokpayiUtilities.SharePointUtilitiesTest" token="600001d" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="CreateSiteColumn" type="EdokpayiUtilities.SharePointUtilities" token="600000c" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="1" total="13" coveredRatio="0.076923076923076927"/>
+</method>
+<method name="CreateTerm" type="EdokpayiUtilities.SharePointUtilitiesTest" token="600001e" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="CreateTerm" type="EdokpayiUtilities.SharePointUtilities" token="600002e" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="1" total="8" coveredRatio="0.125"/>
+</method>
+<method name="CreateTerm01" type="EdokpayiUtilities.SharePointUtilitiesTest" token="600001f" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="CreateTerm" type="EdokpayiUtilities.SharePointUtilities" token="600002f" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="1" total="8" coveredRatio="0.125"/>
+</method>
+<method name="CreateWiki" type="EdokpayiUtilities.SharePointUtilitiesTest" token="6000020" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="CreateWiki" type="EdokpayiUtilities.SharePointUtilities" token="600003c" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="1" total="12" coveredRatio="0.083333333333333329"/>
+</method>
+<method name="EnableContentApproval" type="EdokpayiUtilities.SharePointUtilities" token="6000017" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="1" total="4" coveredRatio="0.25"/>
+</method>
+<method name="DefaultContentApproval" type="EdokpayiUtilities.SharePointUtilitiesTest" token="6000021" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="DefaultContentApproval" type="EdokpayiUtilities.SharePointUtilities" token="6000018" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="1" total="19" coveredRatio="0.052631578947368418"/>
+</method>
+<method name="DeleteContentType" type="EdokpayiUtilities.SharePointUtilities" token="6000016" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="1" total="6" coveredRatio="0.16666666666666666"/>
+</method>
+<method name="DeleteContentType" type="EdokpayiUtilities.SharePointUtilitiesTest" token="6000022" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="DeleteList" type="EdokpayiUtilities.SharePointUtilitiesTest" token="6000023" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="DeleteList" type="EdokpayiUtilities.SharePointUtilities" token="6000037" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="1" total="10" coveredRatio="0.1"/>
+</method>
+<method name="get_DocIconXML" type="EdokpayiUtilities.SharePointUtilities" token="600003a" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="6" total="8" coveredRatio="0.75"/>
+</method>
+<method name="Load" type="System.Xml.Linq.XElement" token="60000d9" module="System.Xml.Linq.dll"><hits/>
+<coverage domain="userortestcode" unit="block" covered="0" total="0" coveredRatio="0"/>
+</method>
+<method name="DocIconXMLGet" type="EdokpayiUtilities.SharePointUtilitiesTest" token="600003f" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="EnableContentApproval" type="EdokpayiUtilities.SharePointUtilitiesTest" token="6000024" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name=".ctor" type="EdokpayiUtilities.SharePointUtilities+&lt;&gt;c__DisplayClass15" token="600006d" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="2" total="2" coveredRatio="1"/>
+</method>
+<method name="FindTerm" type="EdokpayiUtilities.SharePointUtilitiesTest" token="6000025" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="FindTerm" type="EdokpayiUtilities.SharePointUtilities" token="6000030" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="2" total="7" coveredRatio="0.2857142857142857"/>
+</method>
+<method name=".ctor" type="EdokpayiUtilities.SharePointUtilities+&lt;&gt;c__DisplayClass18" token="600006f" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="2" total="2" coveredRatio="1"/>
+</method>
+<method name="FindTerm01" type="EdokpayiUtilities.SharePointUtilitiesTest" token="6000026" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="FindTerm" type="EdokpayiUtilities.SharePointUtilities" token="6000031" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="2" total="7" coveredRatio="0.2857142857142857"/>
+</method>
+<method name="GetDefaultAssociationData" type="EdokpayiUtilities.SharePointUtilitiesTest" token="6000027" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="GetDefaultAssociationData" type="EdokpayiUtilities.SharePointUtilities" token="6000019" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="1" total="41" coveredRatio="0.024390243902439025"/>
+</method>
+<method name="GetDefaultView" type="EdokpayiUtilities.SharePointUtilitiesTest" token="6000028" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="GetDefaultView" type="EdokpayiUtilities.SharePointUtilities" token="6000015" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="1" total="9" coveredRatio="0.1111111111111111"/>
+</method>
+<method name=".ctor" type="EdokpayiUtilities.SharePointUtilities+&lt;&gt;c__DisplayClass1e" token="6000071" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="2" total="2" coveredRatio="1"/>
+</method>
+<method name="GetIconPath" type="EdokpayiUtilities.SharePointUtilitiesTest" token="6000029" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="GetIconPath" type="EdokpayiUtilities.SharePointUtilities" token="600003b" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="3" total="26" coveredRatio="0.11538461538461539"/>
+</method>
+<method name="GetWebAppRelativePath" type="EdokpayiUtilities.SharePointUtilities" token="6000002" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="1" total="6" coveredRatio="0.16666666666666666"/>
+</method>
+<method name="GetWebAppRelativePath" type="EdokpayiUtilities.SharePointUtilitiesTest" token="600002a" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name=".ctor" type="EdokpayiUtilities.SharePointUtilities+&lt;&gt;c__DisplayClass4" token="6000065" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="2" total="2" coveredRatio="1"/>
+</method>
+<method name="GetWorkflowByName" type="EdokpayiUtilities.SharePointUtilitiesTest" token="600002b" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="GetWorkflowByName" type="EdokpayiUtilities.SharePointUtilities" token="6000012" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="2" total="10" coveredRatio="0.2"/>
+</method>
+<method name="LoadFromSharePointRoot" type="EdokpayiUtilities.SharePointUtilitiesTest" token="600002c" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="LoadFromSharePointRoot" type="EdokpayiUtilities.SharePointUtilities" token="600003d" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="2" total="6" coveredRatio="0.33333333333333331"/>
+</method>
+<method name="MakeDefaultContentType" type="EdokpayiUtilities.SharePointUtilitiesTest" token="600002d" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="MakeDefaultContentType" type="EdokpayiUtilities.SharePointUtilities" token="600000f" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="1" total="31" coveredRatio="0.032258064516129031"/>
+</method>
+<method name="ModifyView" type="EdokpayiUtilities.SharePointUtilitiesTest" token="600002e" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="ModifyView" type="EdokpayiUtilities.SharePointUtilities" token="6000010" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="1" total="29" coveredRatio="0.034482758620689655"/>
+</method>
+<method name="ModifyView01" type="EdokpayiUtilities.SharePointUtilitiesTest" token="600002f" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="ModifyView" type="EdokpayiUtilities.SharePointUtilities" token="6000011" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="1" total="19" coveredRatio="0.052631578947368418"/>
+</method>
+<method name="PropagateParentBranding" type="EdokpayiUtilities.SharePointUtilitiesTest" token="6000030" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="PropagateParentBranding" type="EdokpayiUtilities.SharePointUtilities" token="6000005" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="3" total="15" coveredRatio="0.2"/>
+</method>
+<method name="ReorderContentTypeFields" type="EdokpayiUtilities.SharePointUtilitiesTest" token="6000031" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="ReorderContentTypeFields" type="EdokpayiUtilities.SharePointUtilities" token="6000034" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="1" total="28" coveredRatio="0.035714285714285712"/>
+</method>
+<method name="SetDefaultBranding" type="EdokpayiUtilities.SharePointUtilitiesTest" token="6000032" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="SetDefaultBranding" type="EdokpayiUtilities.SharePointUtilities" token="6000004" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="3" total="22" coveredRatio="0.13636363636363635"/>
+</method>
+<method name="SetDefaultTermValue" type="EdokpayiUtilities.SharePointUtilities" token="6000038" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="1" total="10" coveredRatio="0.1"/>
+</method>
+<method name="SetDefaultTermValue" type="EdokpayiUtilities.SharePointUtilitiesTest" token="6000033" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="SetDefaultTermValue" type="EdokpayiUtilities.SharePointUtilities" token="6000039" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="1" total="7" coveredRatio="0.14285714285714285"/>
+</method>
+<method name="SetDefaultTermValue01" type="EdokpayiUtilities.SharePointUtilitiesTest" token="6000034" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="SetDefaultTheme" type="EdokpayiUtilities.SharePointUtilitiesTest" token="6000035" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="SetDefaultTheme" type="EdokpayiUtilities.SharePointUtilities" token="6000007" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="3" total="25" coveredRatio="0.12"/>
+</method>
+<method name="SetMasterPage" type="EdokpayiUtilities.SharePointUtilitiesTest" token="6000036" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="SetMasterPage" type="EdokpayiUtilities.SharePointUtilities" token="6000001" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="3" total="40" coveredRatio="0.075"/>
+</method>
+<method name="SetMasterPage01" type="EdokpayiUtilities.SharePointUtilitiesTest" token="6000037" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="SetMasterPage" type="EdokpayiUtilities.SharePointUtilities" token="6000003" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="3" total="30" coveredRatio="0.1"/>
+</method>
+<method name="SetTheme" type="EdokpayiUtilities.SharePointUtilitiesTest" token="6000038" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="SetTheme" type="EdokpayiUtilities.SharePointUtilities" token="6000006" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="3" total="26" coveredRatio="0.11538461538461539"/>
+</method>
+<method name="TraceDebugException" type="EdokpayiUtilities.SharePointUtilitiesTest" token="6000039" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="2" total="2" coveredRatio="1"/>
+</method>
+<method name="TraceDebugException" type="EdokpayiUtilities.SharePointUtilities" token="6000032" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="4" total="4" coveredRatio="1"/>
+</method>
+<method name="TraceDebugInformation" type="EdokpayiUtilities.SharePointUtilitiesTest" token="600003a" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="2" total="2" coveredRatio="1"/>
+</method>
+<method name="TraceDebugInformation" type="EdokpayiUtilities.SharePointUtilities" token="6000033" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="4" total="4" coveredRatio="1"/>
+</method>
+<method name=".ctor" type="EdokpayiUtilities.SharePointUtilities+&lt;&gt;c__DisplayClassb" token="6000067" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="2" total="2" coveredRatio="1"/>
+</method>
+<method name="TryFindContentType" type="EdokpayiUtilities.SharePointUtilitiesTest" token="600003b" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="TryFindContentType" type="EdokpayiUtilities.SharePointUtilities" token="6000028" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="2" total="9" coveredRatio="0.22222222222222221"/>
+</method>
+<method name="TryGetField" type="EdokpayiUtilities.SharePointUtilitiesTest" token="600003c" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="TryGetField" type="EdokpayiUtilities.SharePointUtilities" token="6000029" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="1" total="7" coveredRatio="0.14285714285714285"/>
+</method>
+<method name="Create" type="Microsoft.SharePoint.SPFieldCollectionFactory" token="6000010" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="2" total="4" coveredRatio="0.5"/>
+</method>
+<method name="Create" type="System.Runtime.Serialization.SerializationInfoFactory" token="6000004" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="0" total="2" coveredRatio="0"/>
+</method>
+<method name="UploadFromPath" type="EdokpayiUtilities.SharePointUtilitiesTest" token="600003d" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="UploadFromPath" type="EdokpayiUtilities.SharePointUtilities" token="600001c" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="1" total="6" coveredRatio="0.16666666666666666"/>
+</method>
+<method name="UploadStream" type="EdokpayiUtilities.SharePointUtilitiesTest" token="600003e" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="UploadStream" type="EdokpayiUtilities.SharePointUtilities" token="600001b" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="1" total="8" coveredRatio="0.125"/>
+</method>
+</document>
+</documents>

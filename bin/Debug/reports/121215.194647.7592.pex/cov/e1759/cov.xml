@@ -1,0 +1,11 @@
+﻿<documents created="2012-12-16 03:48:13Z"><document src="(no sources available for some parts of EdokpayiUtilities, EdokpayiUtilities.Tests)" missing="true"><method name="EnableContentApproval" type="EdokpayiUtilities.SharePointUtilities" token="6000017" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="1" total="4" coveredRatio="0.25"/>
+</method>
+<method name="DefaultContentApproval" type="EdokpayiUtilities.SharePointUtilitiesTest" token="6000021" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="1" total="2" coveredRatio="0.5"/>
+</method>
+<method name="DefaultContentApproval" type="EdokpayiUtilities.SharePointUtilities" token="6000018" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="1" total="19" coveredRatio="0.052631578947368418"/>
+</method>
+</document>
+</documents>

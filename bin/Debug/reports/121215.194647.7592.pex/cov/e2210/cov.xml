@@ -1,0 +1,8 @@
+﻿<documents created="2012-12-16 03:48:31Z"><document src="(no sources available for some parts of EdokpayiUtilities.Tests, EdokpayiUtilities)" missing="true"><method name="TraceDebugException" type="EdokpayiUtilities.SharePointUtilitiesTest" token="6000039" module="&lt;In Memory Module&gt;"><hits/>
+<coverage domain="userortestcode" unit="block" covered="2" total="2" coveredRatio="1"/>
+</method>
+<method name="TraceDebugException" type="EdokpayiUtilities.SharePointUtilities" token="6000032" module="EdokpayiUtilities.dll"><hits/>
+<coverage domain="usercodeundertest" unit="block" covered="4" total="4" coveredRatio="1"/>
+</method>
+</document>
+</documents>

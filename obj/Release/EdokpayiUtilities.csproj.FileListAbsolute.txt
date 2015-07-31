@@ -1,0 +1,5 @@
+C:\Development\USOC.Default.Master\EdokpayiUtilities\bin\Release\EdokpayiUtilities.dll
+C:\Development\USOC.Default.Master\EdokpayiUtilities\bin\Release\EdokpayiUtilities.pdb
+C:\Development\USOC.Default.Master\EdokpayiUtilities\obj\Release\EdokpayiUtilities.dll
+C:\Development\USOC.Default.Master\EdokpayiUtilities\obj\Release\EdokpayiUtilities.pdb
+C:\Development\USOC.Default.Master\EdokpayiUtilities\obj\Release\EdokpayiUtilities.csprojResolveAssemblyReference.cache
